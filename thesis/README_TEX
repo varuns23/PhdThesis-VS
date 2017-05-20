@@ -1,0 +1,5 @@
+
+To include EPS image using pdflatex
+-- \usepackage{epstopdf} in the preemble
+-- Include graphics without extension e.g \includegraphics{picture}
+-- pdflatex -shell-escape  file.tex      

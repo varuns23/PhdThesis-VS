@@ -1,0 +1,83 @@
+\contentsline {chapter}{\numberline {1}Introduction \ensuremath {\&}\xspace Theoretical Overview}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}The Standard Model of Particle Physics}{2}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Fundamental Particles}{7}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Forces of interactions}{8}{subsection.1.1.2}
+\contentsline {subsubsection}{\numberline {1.1.2.1}Electromagnetic Interaction}{9}{subsubsection.1.1.2.1}
+\contentsline {subsubsection}{\numberline {1.1.2.2}Weak Interaction}{9}{subsubsection.1.1.2.2}
+\contentsline {subsubsection}{\numberline {1.1.2.3}Strong Interaction}{10}{subsubsection.1.1.2.3}
+\contentsline {subsection}{\numberline {1.1.3}Electroweak Unification and Higgs Mechanism}{11}{subsection.1.1.3}
+\contentsline {section}{\numberline {1.2}Beyond the Standard Model}{17}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}The Excited Quark Model}{18}{subsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.1.1}A Summary of Previous Searches}{22}{subsubsection.1.2.1.1}
+\contentsline {chapter}{\numberline {2}The Experimental Apparatus}{23}{chapter.2}
+\contentsline {section}{\numberline {2.1}The Large Hadron Collider}{23}{section.2.1}
+\contentsline {section}{\numberline {2.2}The Compact Muon Solenoid}{29}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Coordinate System}{31}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Magnet}{32}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Tracking System}{33}{subsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.3.1}Pixel Detector}{35}{subsubsection.2.2.3.1}
+\contentsline {subsubsection}{\numberline {2.2.3.2}Silicon Strip Detectors}{36}{subsubsection.2.2.3.2}
+\contentsline {subsection}{\numberline {2.2.4}Calorimeter System}{37}{subsection.2.2.4}
+\contentsline {subsubsection}{\numberline {2.2.4.1}Electromagnetic Calorimeter}{38}{subsubsection.2.2.4.1}
+\contentsline {subsubsection}{\numberline {2.2.4.2}Hadronic Calorimeter}{40}{subsubsection.2.2.4.2}
+\contentsline {subsection}{\numberline {2.2.5}Muon System}{43}{subsection.2.2.5}
+\contentsline {subsubsection}{\numberline {2.2.5.1}Drift Tube Chambers}{44}{subsubsection.2.2.5.1}
+\contentsline {subsubsection}{\numberline {2.2.5.2}Cathode Strip Chambers}{45}{subsubsection.2.2.5.2}
+\contentsline {subsubsection}{\numberline {2.2.5.3}Resistive Plate Chambers}{46}{subsubsection.2.2.5.3}
+\contentsline {section}{\numberline {2.3}Trigger and Data Acquisition Systems}{46}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Level-1 Trigger}{48}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}High Level Trigger}{49}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}DAQ}{50}{subsection.2.3.3}
+\contentsline {section}{\numberline {2.4}Software and Computing}{50}{section.2.4}
+\contentsline {chapter}{\numberline {3}Event Simulation and Data Samples}{53}{chapter.3}
+\contentsline {section}{\numberline {3.1}Event Generation}{55}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Hard Scattering and QCD Radiation}{55}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Parton Shower, Underlying Event and Hadronization}{56}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Monte Carlo Event Generators}{58}{subsection.3.1.3}
+\contentsline {subsubsection}{\numberline {3.1.3.1}Pythia}{58}{subsubsection.3.1.3.1}
+\contentsline {subsubsection}{\numberline {3.1.3.2}Madgraph}{58}{subsubsection.3.1.3.2}
+\contentsline {section}{\numberline {3.2}Detector Simulation}{59}{section.3.2}
+\contentsline {section}{\numberline {3.3}Simulated Samples}{60}{section.3.3}
+\contentsline {section}{\numberline {3.4}Data Samples}{63}{section.3.4}
+\contentsline {chapter}{\numberline {4}Event Reconstruction and Object Identification}{65}{chapter.4}
+\contentsline {section}{\numberline {4.1}Track Reconstruction}{67}{section.4.1}
+\contentsline {section}{\numberline {4.2}Reconstruction of Primary Vertices}{69}{section.4.2}
+\contentsline {section}{\numberline {4.3}Photons}{70}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Photon Reconstruction}{70}{subsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.1.1}Hybrid Algorithm}{71}{subsubsection.4.3.1.1}
+\contentsline {subsubsection}{\numberline {4.3.1.2}Multi$5\times 5$ Algorithm}{73}{subsubsection.4.3.1.2}
+\contentsline {subsubsection}{\numberline {4.3.1.3}Energy Corrections}{74}{subsubsection.4.3.1.3}
+\contentsline {subsection}{\numberline {4.3.2}Photon Identification}{75}{subsection.4.3.2}
+\contentsline {subsubsection}{\numberline {4.3.2.1}Shower shape variables}{76}{subsubsection.4.3.2.1}
+\contentsline {subsubsection}{\numberline {4.3.2.2}Isolation based variables}{78}{subsubsection.4.3.2.2}
+\contentsline {subsubsection}{\numberline {4.3.2.3}Anomalous ECAL energy deposits}{78}{subsubsection.4.3.2.3}
+\contentsline {subsubsection}{\numberline {4.3.2.4}Beam Halo}{79}{subsubsection.4.3.2.4}
+\contentsline {section}{\numberline {4.4}Jets}{79}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Particle Flow Reconstruction}{80}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}\relax \mathversion {bold}$\ensuremath {\mathrm {Anti-}k_{\mathrm {T}}}\xspace $ Clustering Algorithm}{82}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Jet Energy Calibrations}{83}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.4}Jet Identification}{85}{subsection.4.4.4}
+\contentsline {chapter}{\numberline {5}Search for excited quarks in \ensuremath {\gamma +\mathrm {jet}}\xspace final state}{87}{chapter.5}
+\contentsline {section}{\numberline {5.1}Signal : Excited quarks}{88}{section.5.1}
+\contentsline {section}{\numberline {5.2}Sources of background}{90}{section.5.2}
+\contentsline {section}{\numberline {5.3}Data Samples and Triggers}{92}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Data}{92}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Trigger}{93}{subsection.5.3.2}
+\contentsline {section}{\numberline {5.4}Reweighting of MC samples for pile-up}{95}{section.5.4}
+\contentsline {section}{\numberline {5.5}Event Selection }{97}{section.5.5}
+\contentsline {section}{\numberline {5.6}Photon + Jet Spectrum}{108}{section.5.6}
+\contentsline {subsection}{\numberline {5.6.1}Choice of Fit function}{111}{subsection.5.6.1}
+\contentsline {section}{\numberline {5.7}Interpolation technique}{115}{section.5.7}
+\contentsline {section}{\numberline {5.8}Systematic Uncertainties}{119}{section.5.8}
+\contentsline {subsection}{\numberline {5.8.1}Photon and Jet Energy Calibration Scale}{120}{subsection.5.8.1}
+\contentsline {subsection}{\numberline {5.8.2}Photon and Jet Energy Resolution}{121}{subsection.5.8.2}
+\contentsline {subsection}{\numberline {5.8.3}Final State Radiations}{121}{subsection.5.8.3}
+\contentsline {subsection}{\numberline {5.8.4}Background Shape Uncertainty}{122}{subsection.5.8.4}
+\contentsline {subsection}{\numberline {5.8.5}Theoretical Uncertainty}{122}{subsection.5.8.5}
+\contentsline {subsection}{\numberline {5.8.6}Pileup Uncertainty }{123}{subsection.5.8.6}
+\contentsline {subsection}{\numberline {5.8.7}Luminosity}{123}{subsection.5.8.7}
+\contentsline {section}{\numberline {5.9} Limit setting procedure }{123}{section.5.9}
+\contentsline {subsection}{\numberline {5.9.1}Optimization}{125}{subsection.5.9.1}
+\contentsline {chapter}{\numberline {6}Results and Summary}{129}{chapter.6}
+\contentsline {section}{\numberline {6.1}Results}{129}{section.6.1}
+\contentsline {section}{\numberline {6.2}Summary}{134}{section.6.2}

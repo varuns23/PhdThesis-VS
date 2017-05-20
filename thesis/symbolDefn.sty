@@ -1,0 +1,84 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{symbolDefn}
+%\RequirePackage{xspace}
+%\RequirePackage{amsmath}
+
+\newcommand {\etal}{\mbox{et al.}\xspace} %et al. - no preceding comma
+\newcommand {\ie}{\mbox{i.e.}\xspace}     %i.e.
+\newcommand {\eg}{\mbox{e.g.}\xspace}     %e.g.
+\newcommand {\etc}{\mbox{etc.}\xspace}    %etc.
+\newcommand {\nd}{\ensuremath{\&}\xspace}
+
+\newcommand {\pp}{\ensuremath{\mathrm{pp}}\xspace}
+\newcommand {\cquark}{\ensuremath{b-\mathrm{quark}}\xspace}
+\newcommand {\bquark}{\ensuremath{b-\mathrm{quark}}\xspace}
+\newcommand {\bquarks}{\ensuremath{b-\mathrm{quarks}}\xspace}
+\newcommand {\shat}{\ensuremath{\hat{s}}\xspace}
+\newcommand {\that}{\ensuremath{\hat{t}}\xspace}
+\newcommand {\uhat}{\ensuremath{\hat{u}}\xspace}
+
+\newcommand {\pt}{\ensuremath{p_{\mathrm T}}\xspace}
+\newcommand {\ptx}[1]{\ensuremath{p_{\mathrm T}^{\mathrm{#1}}}\xspace}
+\newcommand {\et}{\ensuremath{E_{\mathrm T}}\xspace}
+\newcommand {\etx}[1]{\ensuremath{E_{\mathrm T}^{\mathrm{#1}}}\xspace}
+\newcommand {\etxy}[2]{\ensuremath{E_{\mathrm{T,#2}}^{\mathrm{#1}}}\xspace}
+\newcommand {\HT}{\ensuremath{H_{\mathrm{T}}}\xspace}
+\newcommand {\met}{\ensuremath{E_{\mathrm{T}}^{\text{miss}}}\xspace}
+\newcommand {\metVec}{\ensuremath{\vec{E}_{\mathrm{T}}^{\text{miss}}}\xspace}
+\newcommand {\etax}[1]{\ensuremath{\eta^{\mathrm{#1}}}\xspace}
+
+\newcommand {\MD}{\ensuremath{M_D}\xspace}
+\newcommand {\qstar}{\ensuremath{\mathrm{q^\star}}\xspace}
+\newcommand {\ustar}{\ensuremath{\mathrm{u^\star}}\xspace}
+\newcommand {\dstar}{\ensuremath{\mathrm{d^\star}}\xspace}
+
+\newcommand {\mXY}[1]{\ensuremath{\mathrm{M_{#1}}}\xspace}
+\newcommand {\mqstar}{\ensuremath{\mathrm{M_{q^\star}}}\xspace}
+\newcommand {\mgamjet}{\ensuremath{M_{\gamma, \mathrm{jet}}}\xspace}
+\newcommand {\gamjet}{\ensuremath{\gamma+\mathrm{jet}}\xspace}
+
+\newcommand {\dphi}{\ensuremath{\Delta\phi}\xspace}
+\newcommand {\dphixy}[2]{\ensuremath{\Delta\phi(#1,#2)}\xspace}
+\newcommand {\deta}{\ensuremath{\Delta\eta}\xspace}
+\newcommand {\detaxy}[2]{\ensuremath{\Delta\eta(#1,#2)}\xspace}
+\newcommand {\dR}{\ensuremath{\Delta{R}}\xspace}
+\newcommand {\dRxy}[2]{\ensuremath{\Delta{R}(#1,#2)}\xspace}
+\newcommand {\sigmaIetaIeta}{\ensuremath{\sigma_{i{\eta}i{\eta}}}\xspace}
+\newcommand {\sigmaIphiIphi}{\ensuremath{\sigma_{i{\phi}i{\phi}}}\xspace}
+
+
+\newcommand {\chap}[1]{\ensuremath{\mathrm{Chapter}\,#1}\xspace}
+\newcommand {\sectn}[1]{\ensuremath{\mathrm{Section}\,#1}\xspace}
+\newcommand {\fig}[1]{\ensuremath{\mathrm{Fig}\;#1}\xspace}
+\newcommand {\figs}[1]{\ensuremath{\mathrm{Figs}\;#1}\xspace}
+\newcommand {\Fig}[1]{\ensuremath{\mathrm{Figure}\;#1}\xspace}
+\newcommand {\Figs}[1]{\ensuremath{\mathrm{Figures}\;#1}\xspace}
+\newcommand {\tab}[1]{\ensuremath{\mathrm{Table}\;#1}\xspace}
+\newcommand {\eqn}[1]{\ensuremath{\mathrm{Eq}\;#1}\xspace}
+
+\newcommand {\unit}[1]{\ensuremath{\mathrm{\,#1}}\xspace}
+\newcommand {\unitOne}[1]{\ensuremath{\text{\,#1}}\xspace}
+\newcommand {\abs}[1]{\ensuremath{\lvert #1 \rvert}}
+\newcommand {\pbinv}{\ensuremath{\,\text{pb}^\text{$-$1}}\xspace}
+\newcommand {\fbinv}{\ensuremath{\,\text{fb}^\text{$-$1}}\xspace}
+\newcommand {\jet}{\ensuremath{\mathrm{jet}}}
+\newcommand {\jets}{\ensuremath{\mathrm{jets}}}
+\newcommand {\bjet}{\ensuremath{b-\mathrm{jet}}\xspace}
+\newcommand {\bjets}{\ensuremath{b-\mathrm{jets}}\xspace}
+\newcommand {\kt}{\ensuremath{k_{\mathrm{T}}}\xspace}
+\newcommand {\antikt}{\ensuremath{\mathrm{anti-}k_{\mathrm{T}}}\xspace}
+\newcommand {\Antikt}{\ensuremath{\mathrm{Anti-}k_{\mathrm{T}}}\xspace}
+\newcommand {\sqrtseventev}{\ensuremath{ \sqrt{s}= 7\unit{TeV} }}
+\newcommand {\sqrteighttev}{\ensuremath{ \sqrt{s}= 8\unit{TeV} }}
+\newcommand {\sqrtthirteentev}{\ensuremath{ \sqrt{s}= 13\unit{TeV} }}
+
+\newcommand {\cmssw}{{\textsc{cmssw}}\xspace}
+\newcommand {\pythia}{{\textsc{pythia}}\xspace}
+\newcommand {\alpgen}{{\textsc{alpgen}}\xspace}
+\newcommand {\herwigpp}{{\textsc{herwig++}}\xspace}
+\newcommand {\sherpa}{{\textsc{sherpa}}\xspace}
+\newcommand {\madgraph}{\textsc{MadGraph}\xspace}
+\newcommand {\geant}{{\textsc{Geant4}}\xspace}
+\newcommand {\lumi}{\ensuremath{\mathcal{L}}\xspace}
+
+\endinput

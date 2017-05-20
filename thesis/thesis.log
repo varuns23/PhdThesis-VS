@@ -1,0 +1,2512 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.7.25)  16 FEB 2016 18:54
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**thesis.tex
+(./thesis.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count91
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen113
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen114
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count92
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count93
+\leftroot@=\count94
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count95
+\DOTSCASE@=\count96
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen115
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count97
+\c@MaxMatrixCols=\count98
+\dotsspace@=\muskip10
+\c@parentequation=\count99
+\dspbrk@lvl=\count100
+\tag@help=\toks17
+\row@=\count101
+\column@=\count102
+\maxfields@=\count103
+\andhelp@=\toks18
+\eqnshift@=\dimen116
+\alignsep@=\dimen117
+\tagshift@=\dimen118
+\tagwidth@=\dimen119
+\totwidth@=\dimen120
+\lineht@=\dimen121
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mnsymbol/MnSymbol.sty
+Package: MnSymbol 2007/01/21 v1.4 support for the MnSymbol font
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
+LaTeX Info: Redefining \dagger on input line 84.
+LaTeX Info: Redefining \ddagger on input line 84.
+LaTeX Info: Redefining \mathparagraph on input line 84.
+LaTeX Info: Redefining \mathsection on input line 84.
+LaTeX Info: Redefining \mathdollar on input line 84.
+LaTeX Info: Redefining \mathsterling on input line 84.
+LaTeX Info: Redefining \yen on input line 84.
+LaTeX Info: Redefining \circledR on input line 84.
+LaTeX Info: Redefining \Re on input line 84.
+LaTeX Info: Redefining \Im on input line 84.
+\symMnSyA=\mathgroup6
+\symMnSyB=\mathgroup7
+\symMnSyC=\mathgroup8
+\symMnSyD=\mathgroup9
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 119.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/MnSymbolE/m/n on input line 119.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/MnSymbolE/m/n on input line 119.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 120.
+LaTeX Font Info:    Encoding `OMS' has changed to `U' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> U/MnSymbolF/m/n on input line 120.
+LaTeX Font Info:    Encoding `OMS' has changed to `U' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> U/MnSymbolF/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `MnSyA' in version `bold'
+(Font)                  U/MnSymbolA/m/n --> U/MnSymbolA/b/n on input line 121.
+LaTeX Font Info:    Overwriting symbol font `MnSyB' in version `bold'
+(Font)                  U/MnSymbolB/m/n --> U/MnSymbolB/b/n on input line 122.
+LaTeX Font Info:    Overwriting symbol font `MnSyC' in version `bold'
+(Font)                  U/MnSymbolC/m/n --> U/MnSymbolC/b/n on input line 123.
+LaTeX Font Info:    Overwriting symbol font `MnSyD' in version `bold'
+(Font)                  U/MnSymbolD/m/n --> U/MnSymbolD/b/n on input line 124.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/MnSymbolE/m/n --> OMX/MnSymbolE/b/n on input line 1
+25.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  U/MnSymbolF/m/n --> U/MnSymbolF/b/n on input line 126.
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 241.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `bold'
+(Font)                  OMS/MnSymbolS/m/n --> OMS/MnSymbolS/b/n on input line 2
+41.
+LaTeX Info: Redefining \longrightarrow on input line 548.
+LaTeX Info: Redefining \longleftarrow on input line 549.
+LaTeX Info: Redefining \longleftrightarrow on input line 550.
+LaTeX Info: Redefining \Longrightarrow on input line 551.
+LaTeX Info: Redefining \Longleftarrow on input line 552.
+LaTeX Info: Redefining \Longleftrightarrow on input line 553.
+LaTeX Info: Redefining \longmapsto on input line 554.
+LaTeX Info: Redefining \vdots on input line 868.
+LaTeX Font Info:    Redeclaring math symbol \braceld on input line 1721.
+LaTeX Font Info:    Redeclaring math symbol \bracelu on input line 1722.
+LaTeX Font Info:    Redeclaring math symbol \bracerd on input line 1723.
+LaTeX Font Info:    Redeclaring math symbol \braceru on input line 1724.
+LaTeX Info: Redefining \downbracefill on input line 1799.
+LaTeX Info: Redefining \upbracefill on input line 1800.
+LaTeX Info: Redefining \overbrace on input line 1819.
+LaTeX Info: Redefining \underbrace on input line 1820.
+LaTeX Info: Redefining \surd on input line 1843.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 1845.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 1846.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 1848.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks21
+\thm@bodyfont=\toks22
+\thm@headfont=\toks23
+\thm@notefont=\toks24
+\thm@headpunct=\toks25
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks26
+)
+(/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 373.
+Package: cite 2010/09/10  v 5.3
+)
+(/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen122
+\captionmargin@=\dimen123
+\captionwidth=\dimen124
+\caption@tempdima=\dimen125
+\caption@indent=\dimen126
+\caption@parindent=\dimen127
+\caption@hangindent=\dimen128
+)
+\c@ContinuedFloat=\count104
+)
+\c@KVtest=\count105
+\sf@farskip=\skip49
+\sf@captopadj=\dimen129
+\sf@capskip=\skip50
+\sf@nearskip=\skip51
+\c@subfigure=\count106
+\c@subfigure@save=\count107
+\c@lofdepth=\count108
+\c@subtable=\count109
+\c@subtable@save=\count110
+\c@lotdepth=\count111
+\sf@top=\skip52
+\sf@bottom=\skip53
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count112
+\float@exts=\toks27
+\float@box=\box28
+\@float@everytoks=\toks28
+\@floatcapt=\box29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count113
+\rotFPtop=\skip54
+\rotFPbot=\skip55
+\rot@float@box=\box30
+\rot@mess@toks=\toks29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup10
+\symboldletters=\mathgroup11
+\symboldsymbols=\mathgroup12
+\symboldlargesymbols=\mathgroup13
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
+LaTeX Info: Redefining \bm on input line 204.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen130
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks30
+\verbatim@line=\toks31
+\verbatim@in@stream=\read1
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen131
+\Hy@linkcounter=\count114
+\Hy@pagecounter=\count115
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count116
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count117
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen132
+\Fld@menulength=\count118
+\Field@Width=\dimen133
+\Fld@charsize=\dimen134
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count119
+\c@Item=\count120
+\c@Hfootnote=\count121
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count122
+\c@bookmark@seq@number=\count123
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip56
+)
+(/usr/share/texlive/texmf-dist/tex/latex/cleveref/cleveref.sty
+Package: cleveref 2013/12/28 v0.19 Intelligent cross-referencing
+Package cleveref Info: `hyperref' support loaded on input line 2230.
+LaTeX Info: Redefining \cref on input line 2230.
+LaTeX Info: Redefining \Cref on input line 2230.
+LaTeX Info: Redefining \crefrange on input line 2230.
+LaTeX Info: Redefining \Crefrange on input line 2230.
+LaTeX Info: Redefining \cpageref on input line 2230.
+LaTeX Info: Redefining \Cpageref on input line 2230.
+LaTeX Info: Redefining \cpagerefrange on input line 2230.
+LaTeX Info: Redefining \Cpagerefrange on input line 2230.
+LaTeX Info: Redefining \labelcref on input line 2230.
+LaTeX Info: Redefining \labelcpageref on input line 2230.
+Package cleveref Info: `amsthm' support loaded on input line 2858.
+Package cleveref Info: `subfig' support loaded on input line 2983.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen135
+\extrarowheight=\dimen136
+\NC@list=\toks32
+\extratabsurround=\skip57
+\backup@length=\skip58
+)
+(/usr/share/texlive/texmf-dist/tex/latex/wallpaper/wallpaper.sty
+Package: wallpaper 2005/01/18, v1.01 easy wallpaper formatting (MHFW)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count124
+\calc@Bcount=\count125
+\calc@Adimen=\dimen137
+\calc@Bdimen=\dimen138
+\calc@Askip=\skip59
+\calc@Bskip=\skip60
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count126
+\calc@Cskip=\skip61
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2013/10/06 v2.0d eso-pic (RN)
+
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+\wpXoffset=\skip62
+\wpYoffset=\skip63
+\tileXoffset=\skip64
+\tileYoffset=\skip65
+\tilewidth=\skip66
+\tileheight=\skip67
+\tileX=\skip68
+\tileY=\skip69
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/notoccite/notoccite.sty
+Package: notoccite 2000/07/20
+)
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries.sty
+Package: glossaries 2014/01/20 v4.03 (NLCT)
+
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+\XKV@toks=\toks33
+\XKV@tempa@toks=\toks34
+\XKV@depth=\count127
+File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/base/mfirstuc.sty
+Package: mfirstuc 2013/11/04 v1.08 (NLCT)
+
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count128
+)
+\etb@tempcnta=\count129
+)
+\@glsmfirst=\toks35
+\@glsmrest=\toks36
+)
+(/usr/share/texlive/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xfor/xfor.sty
+Package: xfor 2009/02/05 v1.05 (NLCT)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-base.sty
+Package: datatool-base 2013/09/06 v2.18 (NLCT)
+
+(/usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count130
+)
+(/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-fp.sty
+Package: datatool-fp 2013/08/29 v2.17 (NLCT)
+
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp.sty
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(/usr/share/texlive/texmf-dist/tex/latex/fp/defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count131
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count132
+\FP@xia=\count133
+\FP@xib=\count134
+\FP@xfa=\count135
+\FP@xfb=\count136
+\FP@rega=\count137
+\FP@regb=\count138
+\FP@regs=\count139
+\FP@times=\count140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-addons.sty
+Package: fp-addons 1995/03/15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-snap.sty
+Package: fp-snap 1995/04/05
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-exp.sty
+Package: fp-exp 1995/04/03
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-trigo.sty
+Package: fp-trigo 1995/04/14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-pas.sty
+Package: fp-pas 1994/08/29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count141
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eqn.sty
+Package: fp-eqn 1995/04/03
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-upn.sty
+Package: fp-upn 1996/10/21
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eval.sty
+Package: fp-eval 1995/04/03
+)))
+\@dtl@toks=\toks37
+\@dtl@tmpcount=\count142
+\dtl@tmplength=\skip70
+\dtl@sortresult=\count143
+\@dtl@numgrpsepcount=\count144
+\@dtl@datatype=\count145
+\dtl@codeA=\count146
+\dtl@codeB=\count147
+\@dtl@foreach@level=\count148
+)
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries-compatible-
+307.sty
+Package: glossaries-compatible-307 2013/11/14 v4.0 (NLCT)
+)
+\gls@level=\count149
+\@gls@tmpb=\toks38
+\gls@tmplen=\skip71
+\glswrite=\write3
+\glskeylisttok=\toks39
+\glslabeltok=\toks40
+\glsshorttok=\toks41
+\glslongtok=\toks42
+
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-hypernav.st
+y
+Package: glossary-hypernav 2013/11/14 v4.0 (NLCT)
+) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-list.sty
+Package: glossary-list 2013/11/14 v4.0 (NLCT)
+\glslistdottedwidth=\skip72
+) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-long.sty
+Package: glossary-long 2013/11/14 v4.0 (NLCT)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip73
+\LTright=\skip74
+\LTpre=\skip75
+\LTpost=\skip76
+\LTchunksize=\count150
+\LTcapwidth=\dimen139
+\LT@head=\box31
+\LT@firsthead=\box32
+\LT@foot=\box33
+\LT@lastfoot=\box34
+\LT@cols=\count151
+\LT@rows=\count152
+\c@LT@tables=\count153
+\c@LT@chunks=\count154
+\LT@p@ftn=\toks43
+)
+\glsdescwidth=\skip77
+\glspagelistwidth=\skip78
+)
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-super.sty
+Package: glossary-super 2013/11/14 v4.0 (NLCT)
+
+(/usr/share/texlive/texmf-dist/tex/latex/supertabular/supertabular.sty
+Package: supertabular 2004/02/20 v4.1e the supertabular environment
+\c@tracingst=\count155
+\ST@wd=\dimen140
+\ST@rightskip=\skip79
+\ST@leftskip=\skip80
+\ST@parfillskip=\skip81
+\ST@pageleft=\dimen141
+\ST@headht=\dimen142
+\ST@tailht=\dimen143
+\ST@pagesofar=\dimen144
+\ST@pboxht=\dimen145
+\ST@lineht=\dimen146
+\ST@stretchht=\dimen147
+\ST@prevht=\dimen148
+\ST@toadd=\dimen149
+\ST@dimen=\dimen150
+\ST@pbox=\box35
+))
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-tree.sty
+Package: glossary-tree 2013/11/14 v4.0 (NLCT)
+\glstreeindent=\skip82
+))
+(/usr/share/texlive/texmf-dist/tex/latex/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks44
+\SOUL@lasttoken=\toks45
+\SOUL@cmds=\toks46
+\SOUL@buffer=\toks47
+\SOUL@token=\toks48
+\SOUL@spaceskip=\skip83
+\SOUL@ttwidth=\dimen151
+\SOUL@uldp=\dimen152
+\SOUL@ulht=\dimen153
+) (./symbolDefn.sty
+Package: symbolDefn 
+)
+\glo@main@file=\write4
+\openout4 = `thesis.glo'.
+
+Package glossaries Info: Writing glossary file thesis.glo on input line 136.
+
+(./glossary.tex)
+
+LaTeX Warning: Unused global option(s):
+    [a4].
+
+(./thesis.aux)
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 139.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 139.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+
+Package geometry Warning: The marginal notes overrun the paper.
+     Add 48.0945pt and more to the right margin.
+
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
+* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=674.33032pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=95.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count156
+\scratchdimen=\dimen154
+\scratchbox=\box36
+\nofMPsegments=\count157
+\nofMParguments=\count158
+\everyMPshowfont=\toks49
+\MPscratchCnt=\count159
+\MPscratchDim=\dimen155
+\MPnumerator=\count160
+\makeMPintoPDFobject=\count161
+\everyMPtoPDFconversion=\toks50
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
+)
+Package caption Info: rotating package is loaded.
+Package caption Info: supertabular package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box37
+Package hyperref Info: Link coloring OFF on input line 139.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count162
+)
+LaTeX Info: Redefining \ref on input line 139.
+LaTeX Info: Redefining \pageref on input line 139.
+LaTeX Info: Redefining \nameref on input line 139.
+
+(./thesis.out) (./thesis.out)
+\@outlinefile=\write5
+\openout5 = `thesis.out'.
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 141.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 141.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<logo_du_v1.png, id=257, 153.57375pt x 150.5625pt>
+File: logo_du_v1.png Graphic file (type png)
+ <use logo_du_v1.png>
+Package pdftex.def Info: logo_du_v1.png used on input line 141.
+(pdftex.def)             Requested size: 113.81102pt x 111.5799pt.
+
+[1
+
+\openout3 = `thesis.ist'.
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logo_du_v1.png>]
+[2
+
+] (./declare.tex) [1] [2
+
+] (./Originality.tex
+<du_logo_v3.png, id=287, 257.96375pt x 253.94875pt>
+File: du_logo_v3.png Graphic file (type png)
+ <use du_logo_v3.png>
+Package pdftex.def Info: du_logo_v3.png used on input line 6.
+(pdftex.def)             Requested size: 71.13115pt x 71.13228pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.44 \end{titlepage}
+                     [1 <./du_logo_v3.png>])pdfTeX warning (ext4): destination 
+with the same identifier (name{page.ii}) has been already used, duplicate ignor
+ed
+<to be read again> 
+                   \relax 
+l.149 \clearemptydoublepage
+                            [2
+
+] (./dedicate.tex) [3] [4
+
+] (./ack.tex [5])
+[6] (./publication.tex [7
+
+]) [8] (./abstract.tex [9
+
+]) [10] (./thesis.toc
+[11
+
+
+])
+\tf@toc=\write6
+\openout6 = `thesis.toc'.
+
+ [12] [13] [14
+
+] (./thesis.lof [15
+
+] [16]
+Underfull \vbox (badness 2828) has occurred while \output is active []
+
+ [17])
+\tf@lof=\write7
+\openout7 = `thesis.lof'.
+
+
+[18] (./thesis.lot)
+\tf@lot=\write8
+\openout8 = `thesis.lot'.
+
+ [19
+
+
+] [20
+
+] (./ch1/chapter_1.tex
+Chapter 1.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.15 I
+      n this chapter, the theoretical framework of the SM, used to describe ...
+[1
+
+]pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.41 
+      [2]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+(./ch1/tables/Table_SM_particles.tex) [7] (./ch1/tables/Table_SM_forces_v2.tex)
+[8] [9]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+Underfull \vbox (badness 3260) has occurred while \output is active []
+
+ [12]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]
+<ch1/figures/HiggsPotential.png, id=973, 739.76375pt x 287.0725pt>
+File: ch1/figures/HiggsPotential.png Graphic file (type png)
+
+<use ch1/figures/HiggsPotential.png>
+Package pdftex.def Info: ch1/figures/HiggsPotential.png used on input line 349.
+
+(pdftex.def)             Requested size: 369.88097pt x 142.26558pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14]
+[15 <./ch1/figures/HiggsPotential.png>] [16] [17] [18]
+Underfull \vbox (badness 4193) has occurred while \output is active []
+
+ [19]
+<ch1/figures/qgQstarqgamma_S.pdf, id=1046, 569.12625pt x 324.21124pt>
+File: ch1/figures/qgQstarqgamma_S.pdf Graphic file (type pdf)
+
+<use ch1/figures/qgQstarqgamma_S.pdf>
+Package pdftex.def Info: ch1/figures/qgQstarqgamma_S.pdf used on input line 494
+.
+(pdftex.def)             Requested size: 142.26384pt x 113.81203pt.
+
+<ch1/figures/qqbarQstarggamma_T.pdf, id=1047, 569.12625pt x 393.47pt>
+File: ch1/figures/qqbarQstarggamma_T.pdf Graphic file (type pdf)
+
+<use ch1/figures/qqbarQstarggamma_T.pdf>
+Package pdftex.def Info: ch1/figures/qqbarQstarggamma_T.pdf used on input line 
+495.
+(pdftex.def)             Requested size: 170.71313pt x 113.80917pt.
+
+<ch1/figures/ggQstargg.pdf, id=1048, 569.12625pt x 393.47pt>
+File: ch1/figures/ggQstargg.pdf Graphic file (type pdf)
+
+<use ch1/figures/ggQstargg.pdf>
+Package pdftex.def Info: ch1/figures/ggQstargg.pdf used on input line 496.
+(pdftex.def)             Requested size: 170.71313pt x 113.80917pt.
+
+Overfull \hbox (28.446pt too wide) in paragraph at lines 494--497
+ [][][][][][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20 <./ch1/figures/qgQstarqgamma_S.pdf, page is rotated 90 degrees> <./ch1/fig
+ures/qqbarQstarggamma_T.pdf, page is rotated 90 degrees> <./ch1/figures/ggQstar
+gg.pdf, page is rotated 90 degrees>] (./ch1/tables/Table_qstarBR.tex)
+Underfull \vbox (badness 2253) has occurred while \output is active []
+
+ [21])
+[22] (./ch2/chapter_2.tex
+Chapter 2.
+[23
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24]
+<ch2/figures/CERN-Accelerator-Complex.jpg, id=1237, 3379.827pt x 2389.728pt>
+File: ch2/figures/CERN-Accelerator-Complex.jpg Graphic file (type jpg)
+
+<use ch2/figures/CERN-Accelerator-Complex.jpg>
+Package pdftex.def Info: ch2/figures/CERN-Accelerator-Complex.jpg used on input
+ line 47.
+(pdftex.def)             Requested size: 512.10938pt x 284.4942pt.
+
+Overfull \hbox (56.86526pt too wide) in paragraph at lines 47--48
+ [][] 
+ []
+
+[25 <./ch2/figures/CERN-Accelerator-Complex.jpg>]
+<ch2/figures/lhcLayout_v2.png, id=1255, 836.12375pt x 628.3475pt>
+File: ch2/figures/lhcLayout_v2.png Graphic file (type png)
+
+<use ch2/figures/lhcLayout_v2.png>
+Package pdftex.def Info: ch2/figures/lhcLayout_v2.png used on input line 63.
+(pdftex.def)             Requested size: 284.53348pt x 227.61433pt.
+ [26 <./ch2/figures/lhcLayout_v2.png>]
+<ch2/figures/Lumi_pp_2012.pdf, id=1280, 578.16pt x 433.62pt>
+File: ch2/figures/Lumi_pp_2012.pdf Graphic file (type pdf)
+
+<use ch2/figures/Lumi_pp_2012.pdf>
+Package pdftex.def Info: ch2/figures/Lumi_pp_2012.pdf used on input line 120.
+(pdftex.def)             Requested size: 227.61641pt x 199.16988pt.
+ [27] [28 <./ch2/figures/Lumi_pp_2012.pdf>]
+[29] <ch2/figures/cmsDetector.png, id=1375, 3189.9175pt x 2253.41875pt>
+File: ch2/figures/cmsDetector.png Graphic file (type png)
+
+<use ch2/figures/cmsDetector.png>
+Package pdftex.def Info: ch2/figures/cmsDetector.png used on input line 159.
+(pdftex.def)             Requested size: 455.20074pt x 369.87253pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30 <./ch2/figures/cmsDetector.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31]
+[32] <ch2/figures/TrackerLayout.png, id=1402, 701.62125pt x 329.23pt>
+File: ch2/figures/TrackerLayout.png Graphic file (type png)
+
+<use ch2/figures/TrackerLayout.png>
+Package pdftex.def Info: ch2/figures/TrackerLayout.png used on input line 225.
+(pdftex.def)             Requested size: 398.3438pt x 199.1722pt.
+ [33 <./ch2/figures/TrackerLayout.png>]
+<ch2/figures/MaterialBudget_RadLengths.pdf, id=1416, 569.12625pt x 552.0625pt>
+File: ch2/figures/MaterialBudget_RadLengths.pdf Graphic file (type pdf)
+
+<use ch2/figures/MaterialBudget_RadLengths.pdf>
+Package pdftex.def Info: ch2/figures/MaterialBudget_RadLengths.pdf used on inpu
+t line 247.
+(pdftex.def)             Requested size: 216.24417pt x 199.17195pt.
+
+<ch2/figures/MaterialBudget_InteractionLengths.pdf, id=1417, 569.12625pt x 552.
+0625pt>
+File: ch2/figures/MaterialBudget_InteractionLengths.pdf Graphic file (type pdf)
+
+ <use ch2/figures/MaterialBudget_InteractionLengths.pdf>
+Package pdftex.def Info: ch2/figures/MaterialBudget_InteractionLengths.pdf used
+ on input line 249.
+(pdftex.def)             Requested size: 216.24417pt x 199.17195pt.
+
+Underfull \vbox (badness 1776) has occurred while \output is active []
+
+ [34 <./ch2/figures/MaterialBudget_RadLengths.pdf, page is rotated 90 degrees> 
+<./ch2/figures/MaterialBudget_InteractionLengths.pdf, page is rotated 90 degree
+s>]
+<ch2/figures/PixelLayout.png, id=1519, 422.57875pt x 234.8775pt>
+File: ch2/figures/PixelLayout.png Graphic file (type png)
+
+<use ch2/figures/PixelLayout.png>
+Package pdftex.def Info: ch2/figures/PixelLayout.png used on input line 271.
+(pdftex.def)             Requested size: 170.71788pt x 142.26439pt.
+
+<ch2/figures/pixelDetector.png, id=1520, 663.47874pt x 393.47pt>
+File: ch2/figures/pixelDetector.png Graphic file (type png)
+
+<use ch2/figures/pixelDetector.png>
+Package pdftex.def Info: ch2/figures/pixelDetector.png used on input line 273.
+(pdftex.def)             Requested size: 199.16664pt x 170.71378pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[35] <ch2/figures/SiliconStrip.png, id=1543, 576.7146pt x 232.7094pt>
+File: ch2/figures/SiliconStrip.png Graphic file (type png)
+
+<use ch2/figures/SiliconStrip.png>
+Package pdftex.def Info: ch2/figures/SiliconStrip.png used on input line 298.
+(pdftex.def)             Requested size: 341.44666pt x 170.71799pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[36 <./ch2/figures/PixelLayout.png> <./ch2/figures/pixelDetector.png>] [37 <./c
+h2/figures/SiliconStrip.png (PNG copy)>]
+<ch2/figures/cmsECAL.png, id=1572, 739.76375pt x 488.82625pt>
+File: ch2/figures/cmsECAL.png Graphic file (type png)
+
+<use ch2/figures/cmsECAL.png>
+Package pdftex.def Info: ch2/figures/cmsECAL.png used on input line 329.
+(pdftex.def)             Requested size: 369.88097pt x 227.62257pt.
+ [38 <./ch2/figures/cmsECAL.png>]
+Underfull \vbox (badness 4660) has occurred while \output is active []
+
+ [39]
+<ch2/figures/cmsHCAL.png, id=1607, 1307.88625pt x 768.8725pt>
+File: ch2/figures/cmsHCAL.png Graphic file (type png)
+
+<use ch2/figures/cmsHCAL.png>
+Package pdftex.def Info: ch2/figures/cmsHCAL.png used on input line 391.
+(pdftex.def)             Requested size: 369.87769pt x 227.62492pt.
+ [40] [41 <./ch2/figures/cmsHCAL.png (PNG copy)>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [42]
+<ch2/figures/cmsMuonSystem.png, id=1658, 790.955pt x 574.145pt>
+File: ch2/figures/cmsMuonSystem.png Graphic file (type png)
+
+<use ch2/figures/cmsMuonSystem.png>
+Package pdftex.def Info: ch2/figures/cmsMuonSystem.png used on input line 449.
+(pdftex.def)             Requested size: 369.89027pt x 227.62144pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [43 <./ch2/figures/cmsMuonSystem.png (PNG copy)>]
+<ch2/figures/DT.jpg, id=1672, 722.7pt x 542.025pt>
+File: ch2/figures/DT.jpg Graphic file (type jpg)
+ <use ch2/figures/DT.jpg>
+Package pdftex.def Info: ch2/figures/DT.jpg used on input line 470.
+(pdftex.def)             Requested size: 369.88438pt x 227.62413pt.
+
+<ch2/figures/csc.png, id=1676, 1529.715pt x 792.9625pt>
+File: ch2/figures/csc.png Graphic file (type png)
+
+<use ch2/figures/csc.png>
+Package pdftex.def Info: ch2/figures/csc.png used on input line 487.
+(pdftex.def)             Requested size: 369.87006pt x 227.618pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [44 <./ch2/figures/DT.jpg>]
+Underfull \vbox (badness 4673) has occurred while \output is active []
+
+ [45 <./ch2/figures/csc.png>] <ch2/figures/DAQsystem.png, id=1695, 717.68124pt 
+x 393.47pt>
+File: ch2/figures/DAQsystem.png Graphic file (type png)
+
+<use ch2/figures/DAQsystem.png>
+Package pdftex.def Info: ch2/figures/DAQsystem.png used on input line 521.
+(pdftex.def)             Requested size: 426.80115pt x 227.61836pt.
+ [46]
+Underfull \vbox (badness 2150) has occurred while \output is active []
+
+ [47 <./ch2/figures/DAQsystem.png>]
+<ch2/figures/L1Trigger_BlockDiag.pdf, id=1716, 722.7pt x 542.025pt>
+File: ch2/figures/L1Trigger_BlockDiag.pdf Graphic file (type pdf)
+
+<use ch2/figures/L1Trigger_BlockDiag.pdf>
+Package pdftex.def Info: ch2/figures/L1Trigger_BlockDiag.pdf used on input line
+ 544.
+(pdftex.def)             Requested size: 398.33534pt x 227.62413pt.
+
+Underfull \vbox (badness 4454) has occurred while \output is active []
+
+ [48 <./ch2/figures/L1Trigger_BlockDiag.pdf>] [49] [50]) [51] [52
+
+] (./ch3/chapter_3.tex
+Chapter 3.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [53
+
+]
+<ch3/figures/EventGeneration.png, id=1798, 765.86125pt x 630.355pt>
+File: ch3/figures/EventGeneration.png Graphic file (type png)
+
+<use ch3/figures/EventGeneration.png>
+Package pdftex.def Info: ch3/figures/EventGeneration.png used on input line 33.
+
+(pdftex.def)             Requested size: 398.34363pt x 341.43503pt.
+ [54 <./ch3/figures/EventGeneration.png>]
+[55] <ch3/figures/Lund_String_Model.png, id=1821, 931.48pt x 609.27625pt>
+File: ch3/figures/Lund_String_Model.png Graphic file (type png)
+
+<use ch3/figures/Lund_String_Model.png>
+Package pdftex.def Info: ch3/figures/Lund_String_Model.png used on input line 8
+7.
+(pdftex.def)             Requested size: 256.0654pt x 184.94113pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[56]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [57 <./ch3/figures/Lund_String_Model.png>] [58]
+Underfull \vbox (badness 1028) has occurred while \output is active []
+
+ [59]
+(./ch3/tables/Table_Qstarsamples.tex
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [60] (./ch3/tables/Table_MCsamples_v2.tex)
+Underfull \vbox (badness 4036) has occurred while \output is active []
+
+ [61]
+(./ch3/tables/Table_dataset.tex))
+Underfull \vbox (badness 7944) has occurred while \output is active []
+
+ [62]
+[63] [64
+
+] (./ch4/chapter_4.tex
+Chapter 4.
+<ch4/figures/cmsSlice.png, id=1911, 995.72pt x 507.8975pt>
+File: ch4/figures/cmsSlice.png Graphic file (type png)
+
+<use ch4/figures/cmsSlice.png>
+Package pdftex.def Info: ch4/figures/cmsSlice.png used on input line 14.
+(pdftex.def)             Requested size: 426.79904pt x 213.39299pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+<ch4/figures/EventReconstruction_BlockDiag.png, id=1918, 840.13875pt x 590.205p
+t>
+File: ch4/figures/EventReconstruction_BlockDiag.png Graphic file (type png)
+ <use ch4/figures/EventReconstruction_BlockDiag.png>
+Package pdftex.def Info: ch4/figures/EventReconstruction_BlockDiag.png used on 
+input line 29.
+(pdftex.def)             Requested size: 369.88013pt x 256.07968pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [65
+
+]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [66 <./ch4/figures/cmsSlice.png>]
+Underfull \vbox (badness 2103) has occurred while \output is active []
+
+ [67 <./ch4/figures/EventReconstruction_BlockDiag.png>] [68] [69] [70] [71]
+<ch4/figures/ECAL_Hybrid_v2.png, id=1986, 417.56pt x 296.10625pt>
+File: ch4/figures/ECAL_Hybrid_v2.png Graphic file (type png)
+
+<use ch4/figures/ECAL_Hybrid_v2.png>
+Package pdftex.def Info: ch4/figures/ECAL_Hybrid_v2.png used on input line 154.
+
+(pdftex.def)             Requested size: 284.54231pt x 156.49277pt.
+
+<ch4/figures/ECAL_Multi5.png, id=1987, 763.85374pt x 287.0725pt>
+File: ch4/figures/ECAL_Multi5.png Graphic file (type png)
+
+<use ch4/figures/ECAL_Multi5.png>
+Package pdftex.def Info: ch4/figures/ECAL_Multi5.png used on input line 155.
+(pdftex.def)             Requested size: 369.88585pt x 142.26558pt.
+
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+ [72 <./ch4/figures/ECAL_Hybrid_v2.png> <./ch4/figures/ECAL_Multi5.png>] [73]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [74]
+[75] [76]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [77]
+[78] [79] <ch4/figures/JetCones.png, id=2052, 534.99875pt x 460.72125pt>
+File: ch4/figures/JetCones.png Graphic file (type png)
+
+<use ch4/figures/JetCones.png>
+Package pdftex.def Info: ch4/figures/JetCones.png used on input line 339.
+(pdftex.def)             Requested size: 284.53575pt x 227.61835pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[80]
+Underfull \vbox (badness 6094) has occurred while \output is active []
+
+ [81 <./ch4/figures/JetCones.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 376.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 376.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 376.
+
+[82] <ch4/figures/JetClusteringAlgo.png, id=2083, 881.2925pt x 633.36626pt>
+File: ch4/figures/JetClusteringAlgo.png Graphic file (type png)
+
+<use ch4/figures/JetClusteringAlgo.png>
+Package pdftex.def Info: ch4/figures/JetClusteringAlgo.png used on input line 4
+10.
+(pdftex.def)             Requested size: 369.88483pt x 284.52896pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[83] [84 <./ch4/figures/JetClusteringAlgo.png>]) [85] [86
+
+] (./ch5/chapter_5.tex
+Chapter 5.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\gamma' on input line 1.
+
+
+<ch5/plots/FeynmanDiag/qgQstarqgamma_S.pdf, id=2124, 569.12625pt x 324.21124pt>
+File: ch5/plots/FeynmanDiag/qgQstarqgamma_S.pdf Graphic file (type pdf)
+<use ch5/plots/FeynmanDiag/qgQstarqgamma_S.pdf>
+Package pdftex.def Info: ch5/plots/FeynmanDiag/qgQstarqgamma_S.pdf used on inpu
+t line 28.
+(pdftex.def)             Requested size: 170.71313pt x 128.03976pt.
+
+<ch5/plots/FeynmanDiag/qgQstarqgamma_T.pdf, id=2125, 569.12625pt x 393.47pt>
+File: ch5/plots/FeynmanDiag/qgQstarqgamma_T.pdf Graphic file (type pdf)
+
+<use ch5/plots/FeynmanDiag/qgQstarqgamma_T.pdf>
+Package pdftex.def Info: ch5/plots/FeynmanDiag/qgQstarqgamma_T.pdf used on inpu
+t line 29.
+(pdftex.def)             Requested size: 170.71313pt x 142.26147pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [87
+
+]
+<ch5/plots/SignalRelated/QstarSignalShapes.pdf, id=2137, 569.12625pt x 385.44pt
+>
+File: ch5/plots/SignalRelated/QstarSignalShapes.pdf Graphic file (type pdf)
+ <use ch5/plots/SignalRelated/QstarSignalShapes.pdf>
+Package pdftex.def Info: ch5/plots/SignalRelated/QstarSignalShapes.pdf used on 
+input line 40.
+(pdftex.def)             Requested size: 398.3596pt x 256.07324pt.
+
+<ch5/plots/SignalRelated/QstarSignalShapes_fhalf.pdf, id=2138, 569.12625pt x 38
+5.44pt>
+File: ch5/plots/SignalRelated/QstarSignalShapes_fhalf.pdf Graphic file (type pd
+f)
+ <use ch5/plots/SignalRelated/QstarSignalShapes_fhalf.pdf>
+Package pdftex.def Info: ch5/plots/SignalRelated/QstarSignalShapes_fhalf.pdf us
+ed on input line 41.
+(pdftex.def)             Requested size: 398.3596pt x 256.07324pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[88 <./ch5/plots/FeynmanDiag/qgQstarqgamma_S.pdf, page is rotated 90 degrees> <
+./ch5/plots/FeynmanDiag/qgQstarqgamma_T.pdf, page is rotated 90 degrees>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [89 <./ch5/plots/SignalRelated/QstarSignalShapes.pdf, page is rotated 90 degre
+es> <./ch5/plots/SignalRelated/QstarSignalShapes_fhalf.pdf, page is rotated 90 
+degrees>]
+<ch5/plots/FeynmanDiag/qgToqgamma_S.pdf, id=2335, 569.12625pt x 393.47pt>
+File: ch5/plots/FeynmanDiag/qgToqgamma_S.pdf Graphic file (type pdf)
+
+<use ch5/plots/FeynmanDiag/qgToqgamma_S.pdf>
+Package pdftex.def Info: ch5/plots/FeynmanDiag/qgToqgamma_S.pdf used on input l
+ine 68.
+(pdftex.def)             Requested size: 113.80586pt x 91.04854pt.
+
+<ch5/plots/FeynmanDiag/qqbarToggamma_T.pdf, id=2336, 569.12625pt x 393.47pt>
+File: ch5/plots/FeynmanDiag/qqbarToggamma_T.pdf Graphic file (type pdf)
+
+<use ch5/plots/FeynmanDiag/qqbarToggamma_T.pdf>
+Package pdftex.def Info: ch5/plots/FeynmanDiag/qqbarToggamma_T.pdf used on inpu
+t line 70.
+(pdftex.def)             Requested size: 113.80586pt x 91.04854pt.
+
+<ch5/plots/FeynmanDiag/ggToggamma.pdf, id=2337, 569.12625pt x 393.47pt>
+File: ch5/plots/FeynmanDiag/ggToggamma.pdf Graphic file (type pdf)
+
+<use ch5/plots/FeynmanDiag/ggToggamma.pdf>
+Package pdftex.def Info: ch5/plots/FeynmanDiag/ggToggamma.pdf used on input lin
+e 72.
+(pdftex.def)             Requested size: 142.26384pt x 91.04854pt.
+ [90 <./ch5/plots/FeynmanDiag/qgToqgamma_S.pdf, page is rotated 90 degrees> <./
+ch5/plots/FeynmanDiag/qqbarToggamma_T.pdf, page is rotated 90 degrees> <./ch5/p
+lots/FeynmanDiag/ggToggamma.pdf, page is rotated 90 degrees>]
+<ch5/plots/FeynmanDiag/qqbarToqqbar_S.pdf, id=2476, 569.12625pt x 393.47pt>
+File: ch5/plots/FeynmanDiag/qqbarToqqbar_S.pdf Graphic file (type pdf)
+
+<use ch5/plots/FeynmanDiag/qqbarToqqbar_S.pdf>
+Package pdftex.def Info: ch5/plots/FeynmanDiag/qqbarToqqbar_S.pdf used on input
+ line 90.
+(pdftex.def)             Requested size: 113.80586pt x 91.04854pt.
+
+<ch5/plots/FeynmanDiag/qgToqg_T.pdf, id=2477, 569.12625pt x 393.47pt>
+File: ch5/plots/FeynmanDiag/qgToqg_T.pdf Graphic file (type pdf)
+
+<use ch5/plots/FeynmanDiag/qgToqg_T.pdf>
+Package pdftex.def Info: ch5/plots/FeynmanDiag/qgToqg_T.pdf used on input line 
+91.
+(pdftex.def)             Requested size: 113.80586pt x 91.04854pt.
+
+<ch5/plots/FeynmanDiag/ggTogg_T.pdf, id=2478, 569.12625pt x 393.47pt>
+File: ch5/plots/FeynmanDiag/ggTogg_T.pdf Graphic file (type pdf)
+
+<use ch5/plots/FeynmanDiag/ggTogg_T.pdf>
+Package pdftex.def Info: ch5/plots/FeynmanDiag/ggTogg_T.pdf used on input line 
+92.
+(pdftex.def)             Requested size: 113.80586pt x 91.04854pt.
+
+<ch5/plots/FeynmanDiag/ggToqqbar_S.pdf, id=2479, 569.12625pt x 393.47pt>
+File: ch5/plots/FeynmanDiag/ggToqqbar_S.pdf Graphic file (type pdf)
+
+<use ch5/plots/FeynmanDiag/ggToqqbar_S.pdf>
+Package pdftex.def Info: ch5/plots/FeynmanDiag/ggToqqbar_S.pdf used on input li
+ne 93.
+(pdftex.def)             Requested size: 113.80586pt x 91.04854pt.
+
+<ch5/plots/FeynmanDiag/qgToqgGamma_S.pdf, id=2481, 569.12625pt x 393.47pt>
+File: ch5/plots/FeynmanDiag/qgToqgGamma_S.pdf Graphic file (type pdf)
+
+<use ch5/plots/FeynmanDiag/qgToqgGamma_S.pdf>
+Package pdftex.def Info: ch5/plots/FeynmanDiag/qgToqgGamma_S.pdf used on input 
+line 105.
+(pdftex.def)             Requested size: 113.80586pt x 91.04854pt.
+
+<ch5/plots/FeynmanDiag/qgToqgGamma_T.pdf, id=2482, 569.12625pt x 393.47pt>
+File: ch5/plots/FeynmanDiag/qgToqgGamma_T.pdf Graphic file (type pdf)
+
+<use ch5/plots/FeynmanDiag/qgToqgGamma_T.pdf>
+Package pdftex.def Info: ch5/plots/FeynmanDiag/qgToqgGamma_T.pdf used on input 
+line 106.
+(pdftex.def)             Requested size: 108.11774pt x 91.04854pt.
+
+<ch5/plots/FeynmanDiag/qgToqgGamma2_T.pdf, id=2483, 569.12625pt x 393.47pt>
+File: ch5/plots/FeynmanDiag/qgToqgGamma2_T.pdf Graphic file (type pdf)
+
+<use ch5/plots/FeynmanDiag/qgToqgGamma2_T.pdf>
+Package pdftex.def Info: ch5/plots/FeynmanDiag/qgToqgGamma2_T.pdf used on input
+ line 107.
+(pdftex.def)             Requested size: 108.11774pt x 91.04854pt.
+
+<ch5/plots/FeynmanDiag/qqToqqGamma_T.pdf, id=2484, 569.12625pt x 393.47pt>
+File: ch5/plots/FeynmanDiag/qqToqqGamma_T.pdf Graphic file (type pdf)
+
+<use ch5/plots/FeynmanDiag/qqToqqGamma_T.pdf>
+Package pdftex.def Info: ch5/plots/FeynmanDiag/qqToqqGamma_T.pdf used on input 
+line 108.
+(pdftex.def)             Requested size: 108.11774pt x 91.04854pt.
+
+Underfull \hbox (badness 4981) in paragraph at lines 98--113
+[]\OT1/cmr/m/n/12 The SM di-jet back-ground is also sup-ple-mented by some-thin
+g known as
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[91 <./ch5/plots/FeynmanDiag/qqbarToqqbar_S.pdf, page is rotated 90 degrees> <.
+/ch5/plots/FeynmanDiag/qgToqg_T.pdf, page is rotated 90 degrees> <./ch5/plots/F
+eynmanDiag/ggTogg_T.pdf, page is rotated 90 degrees> <./ch5/plots/FeynmanDiag/g
+gToqqbar_S.pdf, page is rotated 90 degrees>]
+<ch5/plots/FeynmanDiag/qqbarToWgamma_T.pdf, id=2670, 569.12625pt x 393.47pt>
+File: ch5/plots/FeynmanDiag/qqbarToWgamma_T.pdf Graphic file (type pdf)
+
+<use ch5/plots/FeynmanDiag/qqbarToWgamma_T.pdf>
+Package pdftex.def Info: ch5/plots/FeynmanDiag/qqbarToWgamma_T.pdf used on inpu
+t line 121.
+(pdftex.def)             Requested size: 142.26384pt x 91.04854pt.
+
+<ch5/plots/FeynmanDiag/qqbarToZgamma_T.pdf, id=2671, 569.12625pt x 393.47pt>
+File: ch5/plots/FeynmanDiag/qqbarToZgamma_T.pdf Graphic file (type pdf)
+
+<use ch5/plots/FeynmanDiag/qqbarToZgamma_T.pdf>
+Package pdftex.def Info: ch5/plots/FeynmanDiag/qqbarToZgamma_T.pdf used on inpu
+t line 122.
+(pdftex.def)             Requested size: 142.26384pt x 91.04854pt.
+ [92 <./ch5/plots/FeynmanDiag/qgToqgGamma_S.pdf, page is rotated 90 degrees> <.
+/ch5/plots/FeynmanDiag/qgToqgGamma_T.pdf, page is rotated 90 degrees> <./ch5/pl
+ots/FeynmanDiag/qgToqgGamma2_T.pdf, page is rotated 90 degrees> <./ch5/plots/Fe
+ynmanDiag/qqToqqGamma_T.pdf, page is rotated 90 degrees> <./ch5/plots/FeynmanDi
+ag/qqbarToWgamma_T.pdf, page is rotated 90 degrees> <./ch5/plots/FeynmanDiag/qq
+barToZgamma_T.pdf, page is rotated 90 degrees>] (./ch5/tables/Table_triggers.te
+x)
+<ch5/plots/DataMC/TriggerTurnOn_HLT150_v3.pdf, id=2960, 569.12625pt x 422.57875
+pt>
+File: ch5/plots/DataMC/TriggerTurnOn_HLT150_v3.pdf Graphic file (type pdf)
+ <use ch5/plots/DataMC/TriggerTurnOn_HLT150_v3.pdf>
+Package pdftex.def Info: ch5/plots/DataMC/TriggerTurnOn_HLT150_v3.pdf used on i
+nput line 181.
+(pdftex.def)             Requested size: 256.08708pt x 199.173pt.
+ [93]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 1931) has occurred while \output is active []
+
+ [94]
+[95 <./ch5/plots/DataMC/TriggerTurnOn_HLT150_v3.pdf, page is rotated 90 degrees
+>]
+Underfull \hbox (badness 10000) in paragraph at lines 215--222
+[]\OT1/cmr/m/n/12 All sim-u-lated sam-ples were gen-er-ated with ad-di-tional i
+n-ter-ac-tion (PU)
+ []
+
+
+Underfull \hbox (badness 8151) in paragraph at lines 215--222
+\OT1/cmr/m/n/12 to match the ex-pected con-di-tions of each data tak-ing pe-rio
+d us-ing the
+ []
+
+
+Underfull \hbox (badness 2165) in paragraph at lines 215--222
+\OT1/cmr/m/n/12 2012[]Summer[]50ns[]PoissonOOTPU pileup sce-nario [[]154[]]. Th
+e de-ter-min-is-tic an-
+ []
+
+
+<ch5/plots/DataMC/pileUp_reweighting_v1.pdf, id=3031, 569.12625pt x 387.4475pt>
+File: ch5/plots/DataMC/pileUp_reweighting_v1.pdf Graphic file (type pdf)
+<use ch5/plots/DataMC/pileUp_reweighting_v1.pdf>
+Package pdftex.def Info: ch5/plots/DataMC/pileUp_reweighting_v1.pdf used on inp
+ut line 225.
+(pdftex.def)             Requested size: 284.53638pt x 199.16818pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[96] [97 <./ch5/plots/DataMC/pileUp_reweighting_v1.pdf, page is rotated 90 degr
+ees>] (./ch5/tables/Table_PhotonEffectiveArea.tex)
+<ch5/plots/N_1_Plots/Photon_N_1_SigmaIetaIeta.pdf, id=3093, 569.12625pt x 551.0
+5875pt>
+File: ch5/plots/N_1_Plots/Photon_N_1_SigmaIetaIeta.pdf Graphic file (type pdf)
+ <use ch5/plots/N_1_Plots/Photon_N_1_SigmaIetaIeta.pdf>
+Package pdftex.def Info: ch5/plots/N_1_Plots/Photon_N_1_SigmaIetaIeta.pdf used 
+on input line 269.
+(pdftex.def)             Requested size: 241.85374pt x 170.71713pt.
+
+<ch5/plots/N_1_Plots/PFiso_N_1_ElectronVeto.pdf, id=3094, 569.12625pt x 551.058
+75pt>
+File: ch5/plots/N_1_Plots/PFiso_N_1_ElectronVeto.pdf Graphic file (type pdf)
+ <use ch5/plots/N_1_Plots/PFiso_N_1_ElectronVeto.pdf>
+Package pdftex.def Info: ch5/plots/N_1_Plots/PFiso_N_1_ElectronVeto.pdf used on
+ input line 270.
+(pdftex.def)             Requested size: 241.85374pt x 170.71713pt.
+
+Overfull \hbox (28.46338pt too wide) in paragraph at lines 269--270
+ [][][][] 
+ []
+
+
+<ch5/plots/N_1_Plots/PFiso_N_1_Photon.pdf, id=3095, 569.12625pt x 551.05875pt>
+File: ch5/plots/N_1_Plots/PFiso_N_1_Photon.pdf Graphic file (type pdf)
+
+<use ch5/plots/N_1_Plots/PFiso_N_1_Photon.pdf>
+Package pdftex.def Info: ch5/plots/N_1_Plots/PFiso_N_1_Photon.pdf used on input
+ line 271.
+(pdftex.def)             Requested size: 241.85374pt x 170.71713pt.
+
+<ch5/plots/N_1_Plots/PFiso_N_1_Charged.pdf, id=3096, 569.12625pt x 551.05875pt>
+File: ch5/plots/N_1_Plots/PFiso_N_1_Charged.pdf Graphic file (type pdf)
+<use ch5/plots/N_1_Plots/PFiso_N_1_Charged.pdf>
+Package pdftex.def Info: ch5/plots/N_1_Plots/PFiso_N_1_Charged.pdf used on inpu
+t line 272.
+(pdftex.def)             Requested size: 241.85374pt x 170.71713pt.
+
+<ch5/plots/N_1_Plots/PFiso_N_1_Neutral.pdf, id=3097, 569.12625pt x 551.05875pt>
+File: ch5/plots/N_1_Plots/PFiso_N_1_Neutral.pdf Graphic file (type pdf)
+<use ch5/plots/N_1_Plots/PFiso_N_1_Neutral.pdf>
+Package pdftex.def Info: ch5/plots/N_1_Plots/PFiso_N_1_Neutral.pdf used on inpu
+t line 273.
+(pdftex.def)             Requested size: 241.85374pt x 170.71713pt.
+
+Overfull \hbox (28.46338pt too wide) in paragraph at lines 272--273
+ [][][][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[98] [99 <./ch5/plots/N_1_Plots/Photon_N_1_SigmaIetaIeta.pdf, page is rotated 9
+0 degrees> <./ch5/plots/N_1_Plots/PFiso_N_1_ElectronVeto.pdf, page is rotated 9
+0 degrees> <./ch5/plots/N_1_Plots/PFiso_N_1_Photon.pdf, page is rotated 90 degr
+ees> <./ch5/plots/N_1_Plots/PFiso_N_1_Charged.pdf, page is rotated 90 degrees> 
+<./ch5/plots/N_1_Plots/PFiso_N_1_Neutral.pdf, page is rotated 90 degrees>]
+<ch5/plots/PhotonID/Photon_SigmaIetaIeta_final.pdf, id=3336, 569.12625pt x 481.
+8pt>
+File: ch5/plots/PhotonID/Photon_SigmaIetaIeta_final.pdf Graphic file (type pdf)
+
+ <use ch5/plots/PhotonID/Photon_SigmaIetaIeta_final.pdf>
+Package pdftex.def Info: ch5/plots/PhotonID/Photon_SigmaIetaIeta_final.pdf used
+ on input line 299.
+(pdftex.def)             Requested size: 241.85374pt x 170.71304pt.
+
+<ch5/plots/PhotonID/HoEnew_final.pdf, id=3337, 569.12625pt x 549.05125pt>
+File: ch5/plots/PhotonID/HoEnew_final.pdf Graphic file (type pdf)
+
+<use ch5/plots/PhotonID/HoEnew_final.pdf>
+Package pdftex.def Info: ch5/plots/PhotonID/HoEnew_final.pdf used on input line
+ 300.
+(pdftex.def)             Requested size: 241.85374pt x 170.71518pt.
+
+Overfull \hbox (28.46338pt too wide) in paragraph at lines 299--300
+ [][][][] 
+ []
+
+<ch5/plots/PhotonID/PFiso_ElectronVeto.pdf, id=3338, 569.12625pt x 481.8pt>
+File: ch5/plots/PhotonID/PFiso_ElectronVeto.pdf Graphic file (type pdf)
+
+<use ch5/plots/PhotonID/PFiso_ElectronVeto.pdf>
+Package pdftex.def Info: ch5/plots/PhotonID/PFiso_ElectronVeto.pdf used on inpu
+t line 301.
+(pdftex.def)             Requested size: 241.85374pt x 170.71304pt.
+
+<ch5/plots/PhotonID/PFiso_Photon_final.pdf, id=3339, 569.12625pt x 549.05125pt>
+File: ch5/plots/PhotonID/PFiso_Photon_final.pdf Graphic file (type pdf)
+<use ch5/plots/PhotonID/PFiso_Photon_final.pdf>
+Package pdftex.def Info: ch5/plots/PhotonID/PFiso_Photon_final.pdf used on inpu
+t line 302.
+(pdftex.def)             Requested size: 241.85374pt x 170.71518pt.
+
+Overfull \hbox (28.46338pt too wide) in paragraph at lines 301--302
+ [][][][] 
+ []
+
+
+<ch5/plots/PhotonID/PFiso_Charged_final.pdf, id=3340, 569.12625pt x 549.05125pt
+>
+File: ch5/plots/PhotonID/PFiso_Charged_final.pdf Graphic file (type pdf)
+ <use ch5/plots/PhotonID/PFiso_Charged_final.pdf>
+Package pdftex.def Info: ch5/plots/PhotonID/PFiso_Charged_final.pdf used on inp
+ut line 303.
+(pdftex.def)             Requested size: 241.85374pt x 170.71518pt.
+
+<ch5/plots/PhotonID/PFiso_Neutral_final.pdf, id=3341, 569.12625pt x 549.05125pt
+>
+File: ch5/plots/PhotonID/PFiso_Neutral_final.pdf Graphic file (type pdf)
+ <use ch5/plots/PhotonID/PFiso_Neutral_final.pdf>
+Package pdftex.def Info: ch5/plots/PhotonID/PFiso_Neutral_final.pdf used on inp
+ut line 304.
+(pdftex.def)             Requested size: 241.85374pt x 170.71518pt.
+
+Overfull \hbox (28.46338pt too wide) in paragraph at lines 303--305
+ [][][][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[100]
+
+LaTeX Warning: Text page 101 contains only floats.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [101 <./ch5/plots/PhotonID/Photon_SigmaIetaIeta_final.pdf, page is rotated 90 
+degrees> <./ch5/plots/PhotonID/HoEnew_final.pdf, page is rotated 90 degrees> <.
+/ch5/plots/PhotonID/PFiso_ElectronVeto.pdf, page is rotated 90 degrees> <./ch5/
+plots/PhotonID/PFiso_Photon_final.pdf, page is rotated 90 degrees> <./ch5/plots
+/PhotonID/PFiso_Charged_final.pdf, page is rotated 90 degrees> <./ch5/plots/Pho
+tonID/PFiso_Neutral_final.pdf, page is rotated 90 degrees>]
+<ch5/plots/SignalRelated/PtPhotJet_final_Qstar1000_v2.pdf, id=3621, 569.12625pt
+ x 464.73625pt>
+File: ch5/plots/SignalRelated/PtPhotJet_final_Qstar1000_v2.pdf Graphic file (ty
+pe pdf)
+ <use ch5/plots/SignalRelated/PtPhotJet_final_Qstar1000_v2.pdf>
+Package pdftex.def Info: ch5/plots/SignalRelated/PtPhotJet_final_Qstar1000_v2.p
+df used on input line 335.
+(pdftex.def)             Requested size: 227.6204pt x 170.71582pt.
+
+<ch5/plots/SignalRelated/PtPhotJet_final_Qstar3000_v2.pdf, id=3622, 569.12625pt
+ x 449.68pt>
+File: ch5/plots/SignalRelated/PtPhotJet_final_Qstar3000_v2.pdf Graphic file (ty
+pe pdf)
+ <use ch5/plots/SignalRelated/PtPhotJet_final_Qstar3000_v2.pdf>
+Package pdftex.def Info: ch5/plots/SignalRelated/PtPhotJet_final_Qstar3000_v2.p
+df used on input line 336.
+(pdftex.def)             Requested size: 227.6204pt x 170.71548pt.
+
+<ch5/plots/JetID/pfjet_CEF_final.pdf, id=3623, 569.12625pt x 549.05125pt>
+File: ch5/plots/JetID/pfjet_CEF_final.pdf Graphic file (type pdf)
+
+<use ch5/plots/JetID/pfjet_CEF_final.pdf>
+Package pdftex.def Info: ch5/plots/JetID/pfjet_CEF_final.pdf used on input line
+ 344.
+(pdftex.def)             Requested size: 241.85374pt x 170.71518pt.
+
+<ch5/plots/JetID/pfjet_CHF_final.pdf, id=3624, 569.12625pt x 549.05125pt>
+File: ch5/plots/JetID/pfjet_CHF_final.pdf Graphic file (type pdf)
+
+<use ch5/plots/JetID/pfjet_CHF_final.pdf>
+Package pdftex.def Info: ch5/plots/JetID/pfjet_CHF_final.pdf used on input line
+ 345.
+(pdftex.def)             Requested size: 241.85374pt x 170.71518pt.
+
+Overfull \hbox (28.46338pt too wide) in paragraph at lines 344--345
+ [][][][] 
+ []
+
+<ch5/plots/JetID/pfjet_NEF_final.pdf, id=3625, 569.12625pt x 549.05125pt>
+File: ch5/plots/JetID/pfjet_NEF_final.pdf Graphic file (type pdf)
+
+<use ch5/plots/JetID/pfjet_NEF_final.pdf>
+Package pdftex.def Info: ch5/plots/JetID/pfjet_NEF_final.pdf used on input line
+ 346.
+(pdftex.def)             Requested size: 241.85374pt x 170.71518pt.
+
+<ch5/plots/JetID/pfjet_NHF_final.pdf, id=3626, 569.12625pt x 549.05125pt>
+File: ch5/plots/JetID/pfjet_NHF_final.pdf Graphic file (type pdf)
+
+<use ch5/plots/JetID/pfjet_NHF_final.pdf>
+Package pdftex.def Info: ch5/plots/JetID/pfjet_NHF_final.pdf used on input line
+ 347.
+(pdftex.def)             Requested size: 241.85374pt x 170.71518pt.
+
+Overfull \hbox (28.46338pt too wide) in paragraph at lines 346--347
+ [][][][] 
+ []
+
+
+<ch5/plots/JetID/pfjet_ChargeMultiplicity_final.pdf, id=3627, 569.12625pt x 549
+.05125pt>
+File: ch5/plots/JetID/pfjet_ChargeMultiplicity_final.pdf Graphic file (type pdf
+)
+ <use ch5/plots/JetID/pfjet_ChargeMultiplicity_final.pdf>
+Package pdftex.def Info: ch5/plots/JetID/pfjet_ChargeMultiplicity_final.pdf use
+d on input line 348.
+(pdftex.def)             Requested size: 241.85374pt x 170.71518pt.
+
+<ch5/plots/JetID/pfjet_NConstituents_final.pdf, id=3628, 569.12625pt x 549.0512
+5pt>
+File: ch5/plots/JetID/pfjet_NConstituents_final.pdf Graphic file (type pdf)
+ <use ch5/plots/JetID/pfjet_NConstituents_final.pdf>
+Package pdftex.def Info: ch5/plots/JetID/pfjet_NConstituents_final.pdf used on 
+input line 349.
+(pdftex.def)             Requested size: 241.85374pt x 170.71518pt.
+
+Overfull \hbox (28.46338pt too wide) in paragraph at lines 348--350
+ [][][][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[102 <./ch5/plots/SignalRelated/PtPhotJet_final_Qstar1000_v2.pdf, page is rotat
+ed 90 degrees> <./ch5/plots/SignalRelated/PtPhotJet_final_Qstar3000_v2.pdf, pag
+e is rotated 90 degrees>]
+
+LaTeX Warning: Text page 103 contains only floats.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [103 <./ch5/plots/JetID/pfjet_CEF_final.pdf, page is rotated 90 degrees> <./ch
+5/plots/JetID/pfjet_CHF_final.pdf, page is rotated 90 degrees> <./ch5/plots/Jet
+ID/pfjet_NEF_final.pdf, page is rotated 90 degrees> <./ch5/plots/JetID/pfjet_NH
+F_final.pdf, page is rotated 90 degrees> <./ch5/plots/JetID/pfjet_ChargeMultipl
+icity_final.pdf, page is rotated 90 degrees> <./ch5/plots/JetID/pfjet_NConstitu
+ents_final.pdf, page is rotated 90 degrees>] (./ch5/tables/Table_CutExpFlowTabl
+e.tex)
+(./ch5/tables/Table_SignalEfficiencies.tex)
+(./ch5/tables/Table_HalfSignalEfficiencies.tex)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<ch5/plots/DataMC/ptPhoton_v2.pdf, id=4005, 569.12625pt x 551.05875pt>
+File: ch5/plots/DataMC/ptPhoton_v2.pdf Graphic file (type pdf)
+
+<use ch5/plots/DataMC/ptPhoton_v2.pdf>
+Package pdftex.def Info: ch5/plots/DataMC/ptPhoton_v2.pdf used on input line 39
+1.
+(pdftex.def)             Requested size: 236.15694pt x 165.0246pt.
+
+<ch5/plots/DataMC/ptJet_v2.pdf, id=4006, 569.12625pt x 551.05875pt>
+File: ch5/plots/DataMC/ptJet_v2.pdf Graphic file (type pdf)
+
+<use ch5/plots/DataMC/ptJet_v2.pdf>
+Package pdftex.def Info: ch5/plots/DataMC/ptJet_v2.pdf used on input line 392.
+(pdftex.def)             Requested size: 236.15694pt x 165.0246pt.
+
+Overfull \hbox (17.06976pt too wide) in paragraph at lines 391--392
+ [][][][] 
+ []
+
+<ch5/plots/DataMC/etaPhoton_v2.pdf, id=4007, 569.12625pt x 551.05875pt>
+File: ch5/plots/DataMC/etaPhoton_v2.pdf Graphic file (type pdf)
+
+<use ch5/plots/DataMC/etaPhoton_v2.pdf>
+Package pdftex.def Info: ch5/plots/DataMC/etaPhoton_v2.pdf used on input line 3
+93.
+(pdftex.def)             Requested size: 236.15694pt x 165.0246pt.
+
+<ch5/plots/DataMC/etaJet_v2.pdf, id=4008, 569.12625pt x 551.05875pt>
+File: ch5/plots/DataMC/etaJet_v2.pdf Graphic file (type pdf)
+
+<use ch5/plots/DataMC/etaJet_v2.pdf>
+Package pdftex.def Info: ch5/plots/DataMC/etaJet_v2.pdf used on input line 394.
+
+(pdftex.def)             Requested size: 236.15694pt x 165.0246pt.
+
+Overfull \hbox (17.06976pt too wide) in paragraph at lines 393--395
+ [][][][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [104]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<ch5/plots/DataMC/dEta_v2.pdf, id=4021, 569.12625pt x 481.8pt>
+File: ch5/plots/DataMC/dEta_v2.pdf Graphic file (type pdf)
+
+<use ch5/plots/DataMC/dEta_v2.pdf>
+Package pdftex.def Info: ch5/plots/DataMC/dEta_v2.pdf used on input line 405.
+(pdftex.def)             Requested size: 241.85374pt x 170.71304pt.
+
+<ch5/plots/DataMC/dPhi_v2.pdf, id=4022, 569.12625pt x 481.8pt>
+File: ch5/plots/DataMC/dPhi_v2.pdf Graphic file (type pdf)
+
+<use ch5/plots/DataMC/dPhi_v2.pdf>
+Package pdftex.def Info: ch5/plots/DataMC/dPhi_v2.pdf used on input line 406.
+(pdftex.def)             Requested size: 241.85374pt x 170.71304pt.
+
+Overfull \hbox (28.46338pt too wide) in paragraph at lines 405--406
+ [][][][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<ch5/plots/DataMC/mass_VarBin.pdf, id=4025, 569.12625pt x 551.05875pt>
+File: ch5/plots/DataMC/mass_VarBin.pdf Graphic file (type pdf)
+
+<use ch5/plots/DataMC/mass_VarBin.pdf>
+Package pdftex.def Info: ch5/plots/DataMC/mass_VarBin.pdf used on input line 41
+8.
+(pdftex.def)             Requested size: 392.6628pt x 270.30702pt.
+ [105]
+
+LaTeX Warning: Text page 106 contains only floats.
+
+
+Overfull \vbox (2.07722pt too high) has occurred while \output is active []
+
+
+[106 <./ch5/plots/DataMC/ptPhoton_v2.pdf, page is rotated 90 degrees> <./ch5/pl
+ots/DataMC/ptJet_v2.pdf, page is rotated 90 degrees> <./ch5/plots/DataMC/etaPho
+ton_v2.pdf, page is rotated 90 degrees> <./ch5/plots/DataMC/etaJet_v2.pdf, page
+ is rotated 90 degrees>] [107 <./ch5/plots/DataMC/dEta_v2.pdf, page is rotated 
+90 degrees> <./ch5/plots/DataMC/dPhi_v2.pdf, page is rotated 90 degrees> <./ch5
+/plots/DataMC/mass_VarBin.pdf, page is rotated 90 degrees>]
+<ch5/plots/FittingSigPlots/Qstar700_bin20.pdf, id=4347, 569.12625pt x 387.4475p
+t>
+File: ch5/plots/FittingSigPlots/Qstar700_bin20.pdf Graphic file (type pdf)
+ <use ch5/plots/FittingSigPlots/Qstar700_bin20.pdf>
+Package pdftex.def Info: ch5/plots/FittingSigPlots/Qstar700_bin20.pdf used on i
+nput line 451.
+(pdftex.def)             Requested size: 227.6204pt x 170.7198pt.
+
+<ch5/plots/FittingSigPlots/Qstar1000.pdf, id=4348, 569.12625pt x 387.4475pt>
+File: ch5/plots/FittingSigPlots/Qstar1000.pdf Graphic file (type pdf)
+
+<use ch5/plots/FittingSigPlots/Qstar1000.pdf>
+Package pdftex.def Info: ch5/plots/FittingSigPlots/Qstar1000.pdf used on input 
+line 452.
+(pdftex.def)             Requested size: 227.6204pt x 170.7198pt.
+
+<ch5/plots/FittingSigPlots/Qstar1200_bin20.pdf, id=4349, 569.12625pt x 387.4475
+pt>
+File: ch5/plots/FittingSigPlots/Qstar1200_bin20.pdf Graphic file (type pdf)
+ <use ch5/plots/FittingSigPlots/Qstar1200_bin20.pdf>
+Package pdftex.def Info: ch5/plots/FittingSigPlots/Qstar1200_bin20.pdf used on 
+input line 453.
+(pdftex.def)             Requested size: 227.6204pt x 170.7198pt.
+
+<ch5/plots/FittingSigPlots/Qstar1500_bin20.pdf, id=4350, 569.12625pt x 387.4475
+pt>
+File: ch5/plots/FittingSigPlots/Qstar1500_bin20.pdf Graphic file (type pdf)
+ <use ch5/plots/FittingSigPlots/Qstar1500_bin20.pdf>
+Package pdftex.def Info: ch5/plots/FittingSigPlots/Qstar1500_bin20.pdf used on 
+input line 454.
+(pdftex.def)             Requested size: 227.6204pt x 170.7198pt.
+
+<ch5/plots/FittingSigPlots/Qstar1700_bin25.pdf, id=4351, 569.12625pt x 387.4475
+pt>
+File: ch5/plots/FittingSigPlots/Qstar1700_bin25.pdf Graphic file (type pdf)
+ <use ch5/plots/FittingSigPlots/Qstar1700_bin25.pdf>
+Package pdftex.def Info: ch5/plots/FittingSigPlots/Qstar1700_bin25.pdf used on 
+input line 455.
+(pdftex.def)             Requested size: 227.6204pt x 170.7198pt.
+
+<ch5/plots/FittingSigPlots/Qstar2000_bin25.pdf, id=4352, 569.12625pt x 387.4475
+pt>
+File: ch5/plots/FittingSigPlots/Qstar2000_bin25.pdf Graphic file (type pdf)
+ <use ch5/plots/FittingSigPlots/Qstar2000_bin25.pdf>
+Package pdftex.def Info: ch5/plots/FittingSigPlots/Qstar2000_bin25.pdf used on 
+input line 462.
+(pdftex.def)             Requested size: 227.6204pt x 170.7198pt.
+
+<ch5/plots/FittingSigPlots/Qstar2500_bin25.pdf, id=4353, 569.12625pt x 387.4475
+pt>
+File: ch5/plots/FittingSigPlots/Qstar2500_bin25.pdf Graphic file (type pdf)
+ <use ch5/plots/FittingSigPlots/Qstar2500_bin25.pdf>
+Package pdftex.def Info: ch5/plots/FittingSigPlots/Qstar2500_bin25.pdf used on 
+input line 463.
+(pdftex.def)             Requested size: 227.6204pt x 170.7198pt.
+
+<ch5/plots/FittingSigPlots/Qstar3000_bin25.pdf, id=4354, 569.12625pt x 387.4475
+pt>
+File: ch5/plots/FittingSigPlots/Qstar3000_bin25.pdf Graphic file (type pdf)
+ <use ch5/plots/FittingSigPlots/Qstar3000_bin25.pdf>
+Package pdftex.def Info: ch5/plots/FittingSigPlots/Qstar3000_bin25.pdf used on 
+input line 464.
+(pdftex.def)             Requested size: 227.6204pt x 170.7198pt.
+
+<ch5/plots/FittingSigPlots/Qstar3500_bin25.pdf, id=4355, 569.12625pt x 387.4475
+pt>
+File: ch5/plots/FittingSigPlots/Qstar3500_bin25.pdf Graphic file (type pdf)
+ <use ch5/plots/FittingSigPlots/Qstar3500_bin25.pdf>
+Package pdftex.def Info: ch5/plots/FittingSigPlots/Qstar3500_bin25.pdf used on 
+input line 465.
+(pdftex.def)             Requested size: 227.6204pt x 170.7198pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<ch5/plots/Fitting/Fit_SigmaMean_v1.pdf, id=4360, 569.12625pt x 551.05875pt>
+File: ch5/plots/Fitting/Fit_SigmaMean_v1.pdf Graphic file (type pdf)
+
+<use ch5/plots/Fitting/Fit_SigmaMean_v1.pdf>
+Package pdftex.def Info: ch5/plots/Fitting/Fit_SigmaMean_v1.pdf used on input l
+ine 481.
+(pdftex.def)             Requested size: 213.39577pt x 169.2961pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [108]
+
+LaTeX Warning: Text page 109 contains only floats.
+
+[109 <./ch5/plots/FittingSigPlots/Qstar700_bin20.pdf> <./ch5/plots/FittingSigPl
+ots/Qstar1000.pdf> <./ch5/plots/FittingSigPlots/Qstar1200_bin20.pdf> <./ch5/plo
+ts/FittingSigPlots/Qstar1500_bin20.pdf> <./ch5/plots/FittingSigPlots/Qstar1700_
+bin25.pdf>]
+
+LaTeX Warning: Text page 110 contains only floats.
+
+
+Overfull \vbox (3.40535pt too high) has occurred while \output is active []
+
+
+[110 <./ch5/plots/FittingSigPlots/Qstar2000_bin25.pdf> <./ch5/plots/FittingSigP
+lots/Qstar2500_bin25.pdf> <./ch5/plots/FittingSigPlots/Qstar3000_bin25.pdf> <./
+ch5/plots/FittingSigPlots/Qstar3500_bin25.pdf> <./ch5/plots/Fitting/Fit_SigmaMe
+an_v1.pdf, page is rotated 90 degrees>]
+<ch5/plots/Fitting/FitToData_DifferentFunctions.pdf, id=4479, 563.10374pt x 584
+.1825pt>
+File: ch5/plots/Fitting/FitToData_DifferentFunctions.pdf Graphic file (type pdf
+)
+ <use ch5/plots/Fitting/FitToData_DifferentFunctions.pdf>
+Package pdftex.def Info: ch5/plots/Fitting/FitToData_DifferentFunctions.pdf use
+d on input line 528.
+(pdftex.def)             Requested size: 369.8882pt x 227.62523pt.
+
+<ch5/plots/Fitting/Residuals_FitToData_DifferentFunctions.pdf, id=4480, 569.126
+25pt x 596.2275pt>
+File: ch5/plots/Fitting/Residuals_FitToData_DifferentFunctions.pdf Graphic file
+ (type pdf)
+
+<use ch5/plots/Fitting/Residuals_FitToData_DifferentFunctions.pdf>
+Package pdftex.def Info: ch5/plots/Fitting/Residuals_FitToData_DifferentFunctio
+ns.pdf used on input line 530.
+(pdftex.def)             Requested size: 369.90163pt x 227.62413pt.
+ [111]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [112 <./ch5/plots/Fitting/FitToData_DifferentFunctions.pdf> <./ch5/plots/Fitti
+ng/Residuals_FitToData_DifferentFunctions.pdf>]
+<ch5/plots/Fitting/FitToData_DifferentRange.pdf, id=4588, 563.10374pt x 584.182
+5pt>
+File: ch5/plots/Fitting/FitToData_DifferentRange.pdf Graphic file (type pdf)
+ <use ch5/plots/Fitting/FitToData_DifferentRange.pdf>
+Package pdftex.def Info: ch5/plots/Fitting/FitToData_DifferentRange.pdf used on
+ input line 561.
+(pdftex.def)             Requested size: 369.8882pt x 227.62523pt.
+
+<ch5/plots/Fitting/Residuals_FitToData_DifferentRange.pdf, id=4589, 569.12625pt
+ x 596.2275pt>
+File: ch5/plots/Fitting/Residuals_FitToData_DifferentRange.pdf Graphic file (ty
+pe pdf)
+ <use ch5/plots/Fitting/Residuals_FitToData_DifferentRange.pdf>
+Package pdftex.def Info: ch5/plots/Fitting/Residuals_FitToData_DifferentRange.p
+df used on input line 563.
+(pdftex.def)             Requested size: 369.90163pt x 227.62413pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+<ch5/plots/DataMC/InvMass_DataFitMC_Paper_TeV.pdf, id=4594, 569.12625pt x 427.5
+975pt>
+File: ch5/plots/DataMC/InvMass_DataFitMC_Paper_TeV.pdf Graphic file (type pdf)
+ <use ch5/plots/DataMC/InvMass_DataFitMC_Paper_TeV.pdf>
+Package pdftex.def Info: ch5/plots/DataMC/InvMass_DataFitMC_Paper_TeV.pdf used 
+on input line 576.
+(pdftex.def)             Requested size: 426.8089pt x 327.20236pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [113]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<ch5/plots/EventDisplay/R_Phi.pdf, id=4605, 1284.8pt x 732.7375pt>
+File: ch5/plots/EventDisplay/R_Phi.pdf Graphic file (type pdf)
+
+<use ch5/plots/EventDisplay/R_Phi.pdf>
+Package pdftex.def Info: ch5/plots/EventDisplay/R_Phi.pdf used on input line 58
+8.
+(pdftex.def)             Requested size: 312.96535pt x 219.08502pt.
+
+<ch5/plots/EventDisplay/Rho_Z.pdf, id=4606, 1284.8pt x 732.7375pt>
+File: ch5/plots/EventDisplay/Rho_Z.pdf Graphic file (type pdf)
+
+<use ch5/plots/EventDisplay/Rho_Z.pdf>
+Package pdftex.def Info: ch5/plots/EventDisplay/Rho_Z.pdf used on input line 59
+0.
+(pdftex.def)             Requested size: 227.60759pt x 162.17546pt.
+
+<ch5/plots/EventDisplay/3D_GifView.pdf, id=4607, 1284.8pt x 732.7375pt>
+File: ch5/plots/EventDisplay/3D_GifView.pdf Graphic file (type pdf)
+
+<use ch5/plots/EventDisplay/3D_GifView.pdf>
+Package pdftex.def Info: ch5/plots/EventDisplay/3D_GifView.pdf used on input li
+ne 592.
+(pdftex.def)             Requested size: 227.60759pt x 162.17546pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [114 <./ch5/plots/Fitting/FitToData_DifferentRange.pdf> <./ch5/plots/Fitting/R
+esiduals_FitToData_DifferentRange.pdf>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+<ch5/plots/InterpolationPlots/XDistribution.pdf, id=4701, 569.12625pt x 387.447
+5pt>
+File: ch5/plots/InterpolationPlots/XDistribution.pdf Graphic file (type pdf)
+ <use ch5/plots/InterpolationPlots/XDistribution.pdf>
+Package pdftex.def Info: ch5/plots/InterpolationPlots/XDistribution.pdf used on
+ input line 602.
+(pdftex.def)             Requested size: 227.6204pt x 159.33928pt.
+
+<ch5/plots/InterpolationPlots/XDistributionWithInterpolated.pdf, id=4702, 569.1
+2625pt x 387.4475pt>
+File: ch5/plots/InterpolationPlots/XDistributionWithInterpolated.pdf Graphic fi
+le (type pdf)
+
+<use ch5/plots/InterpolationPlots/XDistributionWithInterpolated.pdf>
+Package pdftex.def Info: ch5/plots/InterpolationPlots/XDistributionWithInterpol
+ated.pdf used on input line 603.
+(pdftex.def)             Requested size: 227.6204pt x 159.33928pt.
+ [115 <./ch5/plots/DataMC/InvMass_DataFitMC_Paper_TeV.pdf, page is rotated 90 d
+egrees>]
+
+LaTeX Warning: Text page 116 contains only floats.
+
+
+Overfull \vbox (6.1056pt too high) has occurred while \output is active []
+
+
+[116 <./ch5/plots/EventDisplay/R_Phi.pdf> <./ch5/plots/EventDisplay/Rho_Z.pdf> 
+<./ch5/plots/EventDisplay/3D_GifView.pdf>]
+Underfull \vbox (badness 7869) has occurred while \output is active []
+
+ [117 <./ch5/plots/InterpolationPlots/XDistribution.pdf> <./ch5/plots/Interpola
+tionPlots/XDistributionWithInterpolated.pdf>]
+<ch5/plots/InterpolationPlots/InterpolatedSample.pdf, id=4807, 569.12625pt x 32
+4.21124pt>
+File: ch5/plots/InterpolationPlots/InterpolatedSample.pdf Graphic file (type pd
+f)
+ <use ch5/plots/InterpolationPlots/InterpolatedSample.pdf>
+Package pdftex.def Info: ch5/plots/InterpolationPlots/InterpolatedSample.pdf us
+ed on input line 629.
+(pdftex.def)             Requested size: 426.8089pt x 227.62407pt.
+
+<ch5/plots/InterpolationPlots/GenVsIP_massPlot_1TeV_2p5TeV.pdf, id=4808, 569.12
+625pt x 387.4475pt>
+File: ch5/plots/InterpolationPlots/GenVsIP_massPlot_1TeV_2p5TeV.pdf Graphic fil
+e (type pdf)
+
+<use ch5/plots/InterpolationPlots/GenVsIP_massPlot_1TeV_2p5TeV.pdf>
+Package pdftex.def Info: ch5/plots/InterpolationPlots/GenVsIP_massPlot_1TeV_2p5
+TeV.pdf used on input line 637.
+(pdftex.def)             Requested size: 426.8089pt x 227.62248pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[118 <./ch5/plots/InterpolationPlots/InterpolatedSample.pdf>] [119 <./ch5/plots
+/InterpolationPlots/GenVsIP_massPlot_1TeV_2p5TeV.pdf, page is rotated 90 degree
+s>] <ch5/plots/Systematics/JES_Sys.pdf, id=4867, 569.12625pt x 387.4475pt>
+File: ch5/plots/Systematics/JES_Sys.pdf Graphic file (type pdf)
+
+<use ch5/plots/Systematics/JES_Sys.pdf>
+Package pdftex.def Info: ch5/plots/Systematics/JES_Sys.pdf used on input line 6
+73.
+(pdftex.def)             Requested size: 284.53638pt x 199.16818pt.
+
+<ch5/plots/Systematics/PES_Sys.pdf, id=4868, 569.12625pt x 387.4475pt>
+File: ch5/plots/Systematics/PES_Sys.pdf Graphic file (type pdf)
+
+<use ch5/plots/Systematics/PES_Sys.pdf>
+Package pdftex.def Info: ch5/plots/Systematics/PES_Sys.pdf used on input line 6
+79.
+(pdftex.def)             Requested size: 284.53638pt x 199.16818pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[120 <./ch5/plots/Systematics/JES_Sys.pdf, page is rotated 90 degrees>]
+(./ch5/tables/Table_FSRUnc.tex) [121 <./ch5/plots/Systematics/PES_Sys.pdf, page
+ is rotated 90 degrees>] [122] [123]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [124]
+<ch5/plots/InterpolationPlots/GenVsIP_1TeV_2p5TeV_LowPt170_LowM500GeV_dEta1p6_O
+bseExp_Limits_qstar_full_v2.pdf, id=5021, 569.12625pt x 552.0625pt>
+File: ch5/plots/InterpolationPlots/GenVsIP_1TeV_2p5TeV_LowPt170_LowM500GeV_dEta
+1p6_ObseExp_Limits_qstar_full_v2.pdf Graphic file (type pdf)
+
+<use ch5/plots/InterpolationPlots/GenVsIP_1TeV_2p5TeV_LowPt170_LowM500GeV_dEta1
+p6_ObseExp_Limits_qstar_full_v2.pdf>
+Package pdftex.def Info: ch5/plots/InterpolationPlots/GenVsIP_1TeV_2p5TeV_LowPt
+170_LowM500GeV_dEta1p6_ObseExp_Limits_qstar_full_v2.pdf used on input line 817.
+
+(pdftex.def)             Requested size: 341.44365pt x 227.6275pt.
+
+<ch5/plots/Limit/Pt200GeV_ReReco_Optimizaion_ForDeltaEta_ExpectedLimits_qstar_v
+2.pdf, id=5022, 569.12625pt x 552.0625pt>
+File: ch5/plots/Limit/Pt200GeV_ReReco_Optimizaion_ForDeltaEta_ExpectedLimits_qs
+tar_v2.pdf Graphic file (type pdf)
+
+<use ch5/plots/Limit/Pt200GeV_ReReco_Optimizaion_ForDeltaEta_ExpectedLimits_qst
+ar_v2.pdf>
+Package pdftex.def Info: ch5/plots/Limit/Pt200GeV_ReReco_Optimizaion_ForDeltaEt
+a_ExpectedLimits_qstar_v2.pdf used on input line 824.
+(pdftex.def)             Requested size: 341.44365pt x 227.6275pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[125 <./ch5/plots/InterpolationPlots/GenVsIP_1TeV_2p5TeV_LowPt170_LowM500GeV_dE
+ta1p6_ObseExp_Limits_qstar_full_v2.pdf, page is rotated 90 degrees>]
+<ch5/plots/Limit/Pt170GeV_NewOptimizaion_ExpectedLimits_qstar_ALL_v2.pdf, id=50
+73, 569.12625pt x 552.0625pt>
+File: ch5/plots/Limit/Pt170GeV_NewOptimizaion_ExpectedLimits_qstar_ALL_v2.pdf G
+raphic file (type pdf)
+
+<use ch5/plots/Limit/Pt170GeV_NewOptimizaion_ExpectedLimits_qstar_ALL_v2.pdf>
+Package pdftex.def Info: ch5/plots/Limit/Pt170GeV_NewOptimizaion_ExpectedLimits
+_qstar_ALL_v2.pdf used on input line 837.
+(pdftex.def)             Requested size: 341.44365pt x 227.6275pt.
+
+<ch5/plots/Fitting/MassPlotPt170_DifferentDeltaEta_v2.pdf, id=5077, 569.12625pt
+ x 551.05875pt>
+File: ch5/plots/Fitting/MassPlotPt170_DifferentDeltaEta_v2.pdf Graphic file (ty
+pe pdf)
+ <use ch5/plots/Fitting/MassPlotPt170_DifferentDeltaEta_v2.pdf>
+Package pdftex.def Info: ch5/plots/Fitting/MassPlotPt170_DifferentDeltaEta_v2.p
+df used on input line 876.
+(pdftex.def)             Requested size: 227.6204pt x 184.94426pt.
+
+<ch5/plots/Fitting/MassPlotPt170_DifferentDeltaEta_Zoomed_v2.pdf, id=5078, 569.
+12625pt x 551.05875pt>
+File: ch5/plots/Fitting/MassPlotPt170_DifferentDeltaEta_Zoomed_v2.pdf Graphic f
+ile (type pdf)
+
+<use ch5/plots/Fitting/MassPlotPt170_DifferentDeltaEta_Zoomed_v2.pdf>
+Package pdftex.def Info: ch5/plots/Fitting/MassPlotPt170_DifferentDeltaEta_Zoom
+ed_v2.pdf used on input line 877.
+(pdftex.def)             Requested size: 227.6204pt x 184.94426pt.
+)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[126 <./ch5/plots/Limit/Pt200GeV_ReReco_Optimizaion_ForDeltaEta_ExpectedLimits_
+qstar_v2.pdf, page is rotated 90 degrees> <./ch5/plots/Limit/Pt170GeV_NewOptimi
+zaion_ExpectedLimits_qstar_ALL_v2.pdf, page is rotated 90 degrees>] [127 <./ch5
+/plots/Fitting/MassPlotPt170_DifferentDeltaEta_v2.pdf, page is rotated 90 degre
+es> <./ch5/plots/Fitting/MassPlotPt170_DifferentDeltaEta_Zoomed_v2.pdf, page is
+ rotated 90 degrees>] [128
+
+] (./ch6/chapter_6.tex
+Chapter 6.
+
+<ch6/plots/ExcitedQuarksToGJ_f1p0_ObseExp_xsAccEff_Limits_fb.pdf, id=5271, 569.
+12625pt x 552.0625pt>
+File: ch6/plots/ExcitedQuarksToGJ_f1p0_ObseExp_xsAccEff_Limits_fb.pdf Graphic f
+ile (type pdf)
+
+<use ch6/plots/ExcitedQuarksToGJ_f1p0_ObseExp_xsAccEff_Limits_fb.pdf>
+Package pdftex.def Info: ch6/plots/ExcitedQuarksToGJ_f1p0_ObseExp_xsAccEff_Limi
+ts_fb.pdf used on input line 19.
+(pdftex.def)             Requested size: 284.53638pt x 227.6275pt.
+
+<ch6/plots/ExcitedQuarksToGJ_f0p5_ObseExp_xsAccEff_Limits_fb.pdf, id=5272, 569.
+12625pt x 552.0625pt>
+File: ch6/plots/ExcitedQuarksToGJ_f0p5_ObseExp_xsAccEff_Limits_fb.pdf Graphic f
+ile (type pdf)
+
+<use ch6/plots/ExcitedQuarksToGJ_f0p5_ObseExp_xsAccEff_Limits_fb.pdf>
+Package pdftex.def Info: ch6/plots/ExcitedQuarksToGJ_f0p5_ObseExp_xsAccEff_Limi
+ts_fb.pdf used on input line 28.
+(pdftex.def)             Requested size: 284.53638pt x 227.6275pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+<ch6/plots/ExcitedQuarksToGJ_f1p0_ObseExp_xs_Limits_fb.pdf, id=5275, 569.12625p
+t x 552.0625pt>
+File: ch6/plots/ExcitedQuarksToGJ_f1p0_ObseExp_xs_Limits_fb.pdf Graphic file (t
+ype pdf)
+
+<use ch6/plots/ExcitedQuarksToGJ_f1p0_ObseExp_xs_Limits_fb.pdf>
+Package pdftex.def Info: ch6/plots/ExcitedQuarksToGJ_f1p0_ObseExp_xs_Limits_fb.
+pdf used on input line 40.
+(pdftex.def)             Requested size: 284.53638pt x 227.6275pt.
+
+<ch6/plots/ExcitedQuarksToGJ_f0p5_ObseExp_xs_Limits_fb.pdf, id=5276, 569.12625p
+t x 552.0625pt>
+File: ch6/plots/ExcitedQuarksToGJ_f0p5_ObseExp_xs_Limits_fb.pdf Graphic file (t
+ype pdf)
+
+<use ch6/plots/ExcitedQuarksToGJ_f0p5_ObseExp_xs_Limits_fb.pdf>
+Package pdftex.def Info: ch6/plots/ExcitedQuarksToGJ_f0p5_ObseExp_xs_Limits_fb.
+pdf used on input line 49.
+(pdftex.def)             Requested size: 284.53638pt x 227.6275pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[129
+
+]
+Underfull \vbox (badness 5345) has occurred while \output is active []
+
+ [130 <./ch6/plots/ExcitedQuarksToGJ_f1p0_ObseExp_xsAccEff_Limits_fb.pdf, page 
+is rotated 90 degrees> <./ch6/plots/ExcitedQuarksToGJ_f0p5_ObseExp_xsAccEff_Lim
+its_fb.pdf, page is rotated 90 degrees>]
+Underfull \vbox (badness 5345) has occurred while \output is active []
+
+ [131 <./ch6/plots/ExcitedQuarksToGJ_f1p0_ObseExp_xs_Limits_fb.pdf, page is rot
+ated 90 degrees> <./ch6/plots/ExcitedQuarksToGJ_f0p5_ObseExp_xs_Limits_fb.pdf, 
+page is rotated 90 degrees>]
+<ch6/plots/ExcitedQuarksToGJ_Comparef0p5f1p0_ObseExp_xs_Limits_fb.pdf, id=5467,
+ 569.12625pt x 552.0625pt>
+File: ch6/plots/ExcitedQuarksToGJ_Comparef0p5f1p0_ObseExp_xs_Limits_fb.pdf Grap
+hic file (type pdf)
+
+<use ch6/plots/ExcitedQuarksToGJ_Comparef0p5f1p0_ObseExp_xs_Limits_fb.pdf>
+Package pdftex.def Info: ch6/plots/ExcitedQuarksToGJ_Comparef0p5f1p0_ObseExp_xs
+_Limits_fb.pdf used on input line 70.
+(pdftex.def)             Requested size: 284.53638pt x 227.6275pt.
+
+(./ch6/tables/Table_Observedlimit_new.tex)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+(./ch6/tables/Table_XSdifferentCouplings_new.tex)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+<ch6/plots/ExcitedQuarksToGJ_fullfhalf_ObseExp_xs_Limits_paper_fb_v3.pdf, id=54
+74, 569.12625pt x 552.0625pt>
+File: ch6/plots/ExcitedQuarksToGJ_fullfhalf_ObseExp_xs_Limits_paper_fb_v3.pdf G
+raphic file (type pdf)
+
+<use ch6/plots/ExcitedQuarksToGJ_fullfhalf_ObseExp_xs_Limits_paper_fb_v3.pdf>
+Package pdftex.def Info: ch6/plots/ExcitedQuarksToGJ_fullfhalf_ObseExp_xs_Limit
+s_paper_fb_v3.pdf used on input line 94.
+(pdftex.def)             Requested size: 284.53638pt x 241.84685pt.
+
+[132 <./ch6/plots/ExcitedQuarksToGJ_Comparef0p5f1p0_ObseExp_xs_Limits_fb.pdf, p
+age is rotated 90 degrees>]
+
+LaTeX Warning: Text page 133 contains only floats.
+
+
+Underfull \vbox (badness 3803) has occurred while \output is active []
+
+ [133]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+<ch6/plots/ExcitedQuarksToGJ_AllCouplings_ObseExp_xsAccEff_Limits_fb.pdf, id=55
+27, 569.12625pt x 552.0625pt>
+File: ch6/plots/ExcitedQuarksToGJ_AllCouplings_ObseExp_xsAccEff_Limits_fb.pdf G
+raphic file (type pdf)
+
+<use ch6/plots/ExcitedQuarksToGJ_AllCouplings_ObseExp_xsAccEff_Limits_fb.pdf>
+Package pdftex.def Info: ch6/plots/ExcitedQuarksToGJ_AllCouplings_ObseExp_xsAcc
+Eff_Limits_fb.pdf used on input line 109.
+(pdftex.def)             Requested size: 284.53638pt x 241.84685pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[134]
+Underfull \vbox (badness 5970) has occurred while \output is active []
+
+ [135 <./ch6/plots/ExcitedQuarksToGJ_fullfhalf_ObseExp_xs_Limits_paper_fb_v3.pd
+f, page is rotated 90 degrees> <./ch6/plots/ExcitedQuarksToGJ_AllCouplings_Obse
+Exp_xsAccEff_Limits_fb.pdf, page is rotated 90 degrees>]
+<ch6/plots/CouplingvsMass_paper_FR.pdf, id=5623, 569.12625pt x 552.0625pt>
+File: ch6/plots/CouplingvsMass_paper_FR.pdf Graphic file (type pdf)
+
+<use ch6/plots/CouplingvsMass_paper_FR.pdf>
+Package pdftex.def Info: ch6/plots/CouplingvsMass_paper_FR.pdf used on input li
+ne 124.
+(pdftex.def)             Requested size: 284.53638pt x 241.84685pt.
+) [136 <./ch6/plots/CouplingvsMass_paper_FR.pdf, page is rotated 90 degrees>] (
+./thesis.gls [137
+
+
+
+] [138] [139])
+(./thesis.bbl [140] [141
+
+] [142] [143] [144] [145] [146] [147] [148]
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¼ in font cmr12!
+ [149]
+[150] [151]
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¡ in font cmr12!
+ [152] [153] [154] [155] [156] [157] [158])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 244.
+ [159]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 244.
+ (./thesis.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 244.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 244.
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: 4833801099BC52A63A26CBAC7C2B0010;4525.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 244.
+ ) 
+Here is how much of TeX's memory you used:
+ 20032 strings out of 493304
+ 319269 string characters out of 6139871
+ 451775 words of memory out of 5000000
+ 22170 multiletter control sequences out of 15000+600000
+ 56031 words of font info for 193 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 46i,18n,85p,1745b,519s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{/usr/s
+hare/texlive/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{/usr/share/texl
+ive/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolA.enc}{/usr/share/texmf/fonts/e
+nc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvi
+ps/mnsymbol/MnSymbolD.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/mnsymb
+ol/MnSymbolF.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymb
+olS.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol-Bol
+d12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol10.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol12.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol5.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol6.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol8.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
+t8.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/t
+exmf/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on thesis.pdf (183 pages, 12440149 bytes).
+PDF statistics:
+ 6274 PDF objects out of 7423 (max. 8388607)
+ 4046 compressed objects within 41 object streams
+ 738 named destinations out of 1000 (max. 500000)
+ 1070 words of extra memory for PDF output out of 10000 (max. 10000000)
+

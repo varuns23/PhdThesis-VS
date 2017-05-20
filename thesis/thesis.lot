@@ -1,0 +1,23 @@
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {1.1}{\ignorespaces Three generation of elementary particles in the SM\nobreakspace {}\cite {Agashe:2014kda}.\relax }}{8}{table.caption.6}
+\contentsline {table}{\numberline {1.2}{\ignorespaces Fundamental forces, gauge bosons and scalar field\nobreakspace {}\cite {Agashe:2014kda}.\relax }}{9}{table.caption.7}
+\contentsline {table}{\numberline {1.3}{\ignorespaces The branching ratios (BR) of various decay channels of the \ensuremath {\mathrm {q^\star }}\xspace (\ensuremath {\mathrm {u^\star }}\xspace , \ensuremath {\mathrm {d^\star }}\xspace ) of mass $\ensuremath {\mathrm {M_{q^\star }}}\xspace =1\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}TeV}}\xspace $.\relax }}{21}{table.caption.10}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces MC samples of excited quarks (\ensuremath {\mathrm {q^\star }}\xspace ) simulated and reconstructed at $\sqrt {s}=8\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}TeV}}\xspace $, with number of generated events, cross-sections, and coupling strengths. \relax }}{61}{table.caption.28}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Background MC samples simulated and reconstructed at $\sqrt {s}=8\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}TeV}}\xspace $. \relax }}{62}{table.caption.29}
+\contentsline {table}{\numberline {3.3}{\ignorespaces List of datasets with corresponding Run Range, Luminosity, and JSON file. All the datasets uses AOD tier of the data format.\relax }}{63}{table.caption.30}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Parameter values used in Hybrid algorithm.\relax }}{72}{table.caption.33}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Parameter values used in Multi$5\times 5$ algorithm.\relax }}{73}{table.caption.35}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces List of HLT paths used in the analysis.\relax }}{94}{table.caption.44}
+\contentsline {table}{\numberline {5.2}{\ignorespaces Effective Area for photon isolation criteria.\relax }}{98}{table.caption.47}
+\contentsline {table}{\numberline {5.3}{\ignorespaces Selection cut flow table for \ensuremath {\mathrm {q^\star }}\xspace signal with $\ensuremath {\mathrm {M_{q^\star }}}\xspace =1\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}TeV}}\xspace $, data and different backgrounds showing number of expected events after each level.\relax }}{105}{table.caption.52}
+\contentsline {table}{\numberline {5.4}{\ignorespaces Selection efficiencies (in \%) for \ensuremath {\mathrm {q^\star }}\xspace signal samples with $\ensuremath {\mathrm {M_{q^\star }}}\xspace =700-4500\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}GeV}}\xspace $, and coupling $f=1.0$.\relax }}{105}{table.caption.53}
+\contentsline {table}{\numberline {5.5}{\ignorespaces Selection efficiencies(in \%) for \ensuremath {\mathrm {q^\star }}\xspace signal samples with $\ensuremath {\mathrm {M_{q^\star }}}\xspace =1000-4500\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}GeV}}\xspace $, and coupling $f=0.5$.\relax }}{106}{table.caption.54}
+\contentsline {table}{\numberline {5.6}{\ignorespaces Effect of change in Final state radiations on the mean and width of FASTSIM q* shapes at 1 TeV and 3 TeV.\relax }}{122}{table.caption.70}
+\contentsline {table}{\numberline {5.7}{\ignorespaces Table showing expected limits for different cases of optimization.\relax }}{127}{table.caption.74}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {6.1}{\ignorespaces Expected and observed 95\% CL upper limits on $\sigma \times \mathcal {B}$ (in fb) as a function of resonance mass for couplings strengths $f=0.5$ and 1.0 respectively.\relax }}{133}{table.caption.81}
+\contentsline {table}{\numberline {6.2}{\ignorespaces Cross section (in pb) of \ensuremath {\mathrm {q^\star }}\xspace signal samples for different couplings ($f=$ 0.04 to 1.0).\relax }}{134}{table.caption.82}

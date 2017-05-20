@@ -1,0 +1,134 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Example of electroweak symmetry breaking for the potential with real scalar, $V(\phi )=\mu ^{2}\phi ^{2} + \phi ^{4}$. The ground state for $\mu ^{2}<0$ no longer respect the symmetry $\phi \to -\phi $.\relax }}{15}{figure.caption.8}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Some of the Feynman diagrams for $pp\rightarrow \ensuremath {\mathrm {q^\star }}\xspace \rightarrow $ \ensuremath {\gamma +\mathrm {jet}}\xspace final state.\relax }}{20}{figure.caption.9}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {quark gluon fusion}}}{20}{subfigure.2.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {quark anti-quark annihilation}}}{20}{subfigure.2.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {gluon gluon fusion}}}{20}{subfigure.2.3}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Picture showing the LHC ring and a series of accelerators which boost the proton (ion) beam to different energy levels\nobreakspace {}\cite {Web:CERN}.\relax }}{25}{figure.caption.11}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Layout of LHC ring\nobreakspace {}\cite {Web:CERNcds}.\relax }}{26}{figure.caption.12}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Total integrated luminosity delivered to the CMS experiment for \ensuremath {\mathrm {pp}}\xspace collisions by the LHC during the 2012 run at \ensuremath { \sqrt {s}= 8\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}TeV}}\xspace }$\tmspace +\thinmuskip {.1667em}$\nobreakspace {}\cite {Web:CMSLumi}.\relax }}{28}{figure.caption.13}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Sectional view of the CMS detector\nobreakspace {}\cite {Web:CERNcds}.\relax }}{30}{figure.caption.14}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Schematic view of the CMS tracker in the $r-z$ plane\nobreakspace {}\cite {Chatrchyan:2008aa}. Each line depicts a detector module and double lines represents back-to-back modules. Abbreviations TEC, TIB, TID, TOB, etc. are described later in text.\relax }}{33}{figure.caption.15}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Total thickness of the tracker material traversed by a particle produced at the nominal interaction point, as a function of pseudorapidity, expressed in units of (a) radiation length $\mathrm {X_0}$ and (b) nuclear interaction length $\lambda _I$\nobreakspace {}\cite {Chatrchyan:2014fea}.\relax }}{34}{figure.caption.16}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{34}{subfigure.6.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{34}{subfigure.6.2}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces (a) Hit coverage and (b) geometrical layout of the CMS pixel detector\nobreakspace {}\cite {Chatrchyan:2008aa}.\relax }}{36}{figure.caption.17}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{36}{subfigure.7.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{36}{subfigure.7.2}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces A Schematic layout of the silicon microstrip detector\nobreakspace {}\cite {Chatrchyan:2008aa}.\relax }}{37}{figure.caption.18}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces A schematic design of the CMS ECAL showing the arrangement of crystals, supermodules and endcaps with the preshower in front\nobreakspace {}\cite {Chatrchyan:2008aa}.\relax }}{38}{figure.caption.19}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces A schematic design of the CMS HCAL showing the barrel section (HB), endcap section (HE), the tail catcher outside the solenoid (HO) and the forward section (HF)\nobreakspace {}\cite {cmsTDR}.\relax }}{41}{figure.caption.20}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces A schematic design of one quadrant of the muon system in the $r-z$ plane showing the position of three sub-detectors used for muon detection\nobreakspace {}\cite {Web:CERNcds}.\relax }}{43}{figure.caption.21}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Individual drift tube cells and pictorial representation of its operation principle\nobreakspace {}\cite {cmsTDR}.\relax }}{44}{figure.caption.22}
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Operation principle of the Cathode Strip Chamber\nobreakspace {}\cite {Web:CERNcds}.\relax }}{45}{figure.caption.23}
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Schematic diagram of architecture of CMS DAQ and trigger system\nobreakspace {}\cite {Web:CERNcds}.\relax }}{47}{figure.caption.24}
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Architecture of CMS Level-1 trigger system\nobreakspace {}\cite {triggerTDR}.\relax }}{48}{figure.caption.25}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Illustration of a generated event depicting incoming partons undergoing interaction via a hard scattering process, and outgoing partons showering and hadronizing.\relax }}{54}{figure.caption.26}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Hadronization of an initial state of two quarks where another quark pair is created from the energy stored in the color field.\relax }}{57}{figure.caption.27}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Transverse view of the CMS detector, showing particle identification\nobreakspace {}\cite {Web:CERNcds}.\relax }}{66}{figure.caption.31}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Flowchart of event reconstruction algorithms.\relax }}{67}{figure.caption.32}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Schematic overview of clustering algorithms in barrel and endcap ECAL regions\nobreakspace {}\cite {Anderson:1365024}.\relax }}{72}{figure.caption.34}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {A depiction of Hybrid Clustering algorithm used in EB region.}}}{72}{subfigure.3.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Two overlapping Multi$5\times 5$ clusters. Crystals with yellow colour can potentially seed further multi$5\times 5$ clusters.}}}{72}{subfigure.3.2}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Infrared safety (top) : Addition of a soft gluon. Collinear safety (bottom) : Splitting of one parton into two collinear partons.\relax }}{81}{figure.caption.36}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces The behaviors of different jet algorithms in parton level\nobreakspace {}\cite {Cacciari:2008gp}.\relax }}{84}{figure.caption.37}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Feynman diagrams for $qg\rightarrow \ensuremath {\mathrm {q^\star }}\xspace \rightarrow {q\gamma }$ final state via (left) s- and (right) t-channel processes.\relax }}{88}{figure.caption.38}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Invariant mass plot normalized to unity for all the \ensuremath {\mathrm {q^\star }}\xspace mass points.\relax }}{89}{figure.caption.39}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Coupling strength, $f = 1.0$ }}}{89}{subfigure.2.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Coupling strength, $f = 0.5$ }}}{89}{subfigure.2.2}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Some of the Feynman diagrams of SM \ensuremath {\gamma +\mathrm {jet}}\xspace final states with different possible allowed exchanges.\relax }}{90}{figure.caption.40}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {quark gluon Compton scattering}}}{90}{subfigure.3.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {quark anti-quark annihilation}}}{90}{subfigure.3.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {gluon gluon fusion}}}{90}{subfigure.3.3}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Some of the Feynman diagrams for SM QCD Dijet background.\relax }}{91}{figure.caption.41}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{91}{subfigure.4.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{91}{subfigure.4.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{91}{subfigure.4.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{91}{subfigure.4.4}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Feynman diagrams for Bremsstrahlung contribution of SM QCD dijet production.\relax }}{92}{figure.caption.42}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Background contributions to \ensuremath {\gamma +\mathrm {jet}}\xspace from electroweak processes.\relax }}{92}{figure.caption.43}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{92}{subfigure.6.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{92}{subfigure.6.2}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Trigger turn-on curve for single photon trigger HLT\_Photon\_150. The errors on each point are statistical only.\relax }}{95}{figure.caption.45}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Effect of pileup re-weighting on MC.\relax }}{97}{figure.caption.46}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces N-1 plots for photon identification and isolation variables.\relax }}{99}{figure.caption.48}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Shower Shape Variable}}}{99}{subfigure.9.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Conversion Safe Electron Veto}}}{99}{subfigure.9.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {PF Photon Isolation}}}{99}{subfigure.9.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {PF Charged Isolation}}}{99}{subfigure.9.4}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {PF Neutral Isolation}}}{99}{subfigure.9.5}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Distributions of photon identification and isolation variables after all the selection criteria.\relax }}{101}{figure.caption.49}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Shower Shape Variable}}}{101}{subfigure.10.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Single Tower H/E}}}{101}{subfigure.10.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {PF Sum Isolation}}}{101}{subfigure.10.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {PF Photon Isolation}}}{101}{subfigure.10.4}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {PF Charged Isolation}}}{101}{subfigure.10.5}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {PF Neutral Isolation}}}{101}{subfigure.10.6}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces 2-dimensional histogram comparing \ensuremath {p_{\mathrm T}}\xspace of $\gamma $ and jet for \ensuremath {\mathrm {q^\star }}\xspace signal.\relax }}{102}{figure.caption.50}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\ensuremath {\mathrm {M_{q^\star }}}\xspace =1\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}TeV}}\xspace }}}{102}{subfigure.11.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\ensuremath {\mathrm {M_{q^\star }}}\xspace =3\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}TeV}}\xspace }}}{102}{subfigure.11.2}
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Comparison of Data and MC for jet identification variables after final selection criteria has been applied.\relax }}{103}{figure.caption.51}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Charged Electromagnetic fraction}}}{103}{subfigure.12.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Charged hadron fraction}}}{103}{subfigure.12.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Neutral Electromagnetic fraction}}}{103}{subfigure.12.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Neutral hadron fraction}}}{103}{subfigure.12.4}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Charged Multiplicity}}}{103}{subfigure.12.5}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Number of Constituents}}}{103}{subfigure.12.6}
+\contentsline {figure}{\numberline {5.13}{\ignorespaces The \ensuremath {p_{\mathrm T}}\xspace and $\eta $ spectrum of the leading $\gamma $ and jet for the events comparing data and MC simulation after applying the final selection criteria.\relax }}{106}{figure.caption.55}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Photon \ensuremath {p_{\mathrm T}}\xspace }}}{106}{subfigure.13.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Jet \ensuremath {p_{\mathrm T}}\xspace }}}{106}{subfigure.13.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Photon $\eta $}}}{106}{subfigure.13.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Jet $\eta $}}}{106}{subfigure.13.4}
+\contentsline {figure}{\numberline {5.14}{\ignorespaces The \ensuremath {\Delta \eta (\gamma ,jet)}\xspace and \ensuremath {\Delta \phi (\gamma ,jet)}\xspace distributions between the leading $\gamma $ and jet comparing data and MC simulation after applying final selection criteria.\relax }}{107}{figure.caption.56}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\ensuremath {\Delta \eta (\gamma ,jet)}\xspace }}}{107}{subfigure.14.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\ensuremath {\Delta \phi (\gamma ,jet)}\xspace }}}{107}{subfigure.14.2}
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Invariant mass of \ensuremath {\gamma +\mathrm {jet}}\xspace .\relax }}{107}{figure.caption.57}
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Fitting the core of \ensuremath {\mathrm {q^\star }}\xspace invariant mass for different samples of \ensuremath {\mathrm {M_{q^\star }}}\xspace from 700 to 1700\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}GeV}}\xspace with $f=1.0$ using Breit-Wigner (Blue), Crystal-Ball (Red), and Gaussian (Green) functions to get the mass resolution of each mass point.\relax }}{109}{figure.caption.58}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$\ensuremath {\mathrm {M_{q^\star }}}\xspace =700\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}GeV}}\xspace $}}}{109}{subfigure.16.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$\ensuremath {\mathrm {M_{q^\star }}}\xspace =1000\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}GeV}}\xspace $}}}{109}{subfigure.16.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$\ensuremath {\mathrm {M_{q^\star }}}\xspace =1200\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}GeV}}\xspace $}}}{109}{subfigure.16.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {$\ensuremath {\mathrm {M_{q^\star }}}\xspace =1500\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}GeV}}\xspace $}}}{109}{subfigure.16.4}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {$\ensuremath {\mathrm {M_{q^\star }}}\xspace =1700\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}GeV}}\xspace $}}}{109}{subfigure.16.5}
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Fitting the core of \ensuremath {\mathrm {q^\star }}\xspace invariant mass for different samples of \ensuremath {\mathrm {M_{q^\star }}}\xspace from 2000 to 3500\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}GeV}}\xspace with $f=1.0$ using Breit-Wigner (Blue), Crystal-Ball (Red), and Gaussian (Green) functions to get the mass resolution of each mass point.\relax }}{110}{figure.caption.59}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$\ensuremath {\mathrm {M_{q^\star }}}\xspace =2000\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}GeV}}\xspace $}}}{110}{subfigure.17.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$\ensuremath {\mathrm {M_{q^\star }}}\xspace =2500\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}GeV}}\xspace $}}}{110}{subfigure.17.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$\ensuremath {\mathrm {M_{q^\star }}}\xspace =3000\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}GeV}}\xspace $}}}{110}{subfigure.17.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {$\ensuremath {\mathrm {M_{q^\star }}}\xspace =3500\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}GeV}}\xspace $}}}{110}{subfigure.17.4}
+\contentsline {figure}{\numberline {5.18}{\ignorespaces Fit function to get the variable binning from resolution of signal samples.\relax }}{110}{figure.caption.60}
+\contentsline {figure}{\numberline {5.19}{\ignorespaces Fit \ensuremath {\gamma +\mathrm {jet}}\xspace invariant mass in data using different fit function.\relax }}{112}{figure.caption.61}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Fit to data with different fit functions described in the text.}}}{112}{subfigure.19.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Residuals for all the fit function on the same scale.}}}{112}{subfigure.19.2}
+\contentsline {figure}{\numberline {5.20}{\ignorespaces Fit to data with different fit ranges.\relax }}{114}{figure.caption.62}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Fit to data for $F_2$ over different mass range}}}{114}{subfigure.20.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Residuals for fit to data for $F_2$ over different mass range}}}{114}{subfigure.20.2}
+\contentsline {figure}{\numberline {5.21}{\ignorespaces The \ensuremath {\gamma +\mathrm {jet}}\xspace invariant mass spectrum from data, the result of the fit with fit error, and residuals.\relax }}{115}{figure.caption.63}
+\contentsline {figure}{\numberline {5.22}{\ignorespaces Graphic display for highest \ensuremath {\gamma +\mathrm {jet}}\xspace invariant mass event in different geometric planes, with \ensuremath {M_{\gamma , \mathrm {jet}}}\xspace = 2934.4\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}GeV}}\xspace , $p^{\gamma }_{T}$ = 1361.3\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}GeV}}\xspace and $p^{jet}_{T}$ = 1280.2\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}GeV}}\xspace .\relax }}{116}{figure.caption.64}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$r-\phi $ plane}}}{116}{subfigure.22.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$\rho -z$ plane}}}{116}{subfigure.22.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {3-dimensional view}}}{116}{subfigure.22.3}
+\contentsline {figure}{\numberline {5.23}{\ignorespaces $X$ distribution for excited quark with different mass points for generated and Interpolated samples.\relax }}{117}{figure.caption.65}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{117}{subfigure.23.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{117}{subfigure.23.2}
+\contentsline {figure}{\numberline {5.24}{\ignorespaces Comparison of \ensuremath {\mathrm {q^\star }}\xspace resonance shapes for the generated and interpolated samples. The solid lines are from the generated samples (q*) while dotted lines represent interpolated samples (I.M).\relax }}{118}{figure.caption.66}
+\contentsline {figure}{\numberline {5.25}{\ignorespaces Comparison of \ensuremath {\mathrm {q^\star }}\xspace resonance shape for generated (solid lines) and interpolated (dotted lines) excited quark at 1.0 and 2.5 TeV.\relax }}{119}{figure.caption.67}
+\contentsline {figure}{\numberline {5.26}{\ignorespaces Uncertainty in jet Energy Scale as a function of mass.\relax }}{120}{figure.caption.68}
+\contentsline {figure}{\numberline {5.27}{\ignorespaces Uncertainty in photon energy scale as a function of mass.\relax }}{121}{figure.caption.69}
+\contentsline {figure}{\numberline {5.28}{\ignorespaces Comparison of interpolated (red dots) and generated signal shapes (black dots) based on the observed limits.\relax }}{125}{figure.caption.71}
+\contentsline {figure}{\numberline {5.29}{\ignorespaces Optimization based on the expected limits with different \ensuremath {\Delta \eta }\xspace selection criteria.\relax }}{126}{figure.caption.72}
+\contentsline {figure}{\numberline {5.30}{\ignorespaces Optimization based on the expected limits with different criteria on \ensuremath {p_{\mathrm T}}\xspace , \ensuremath {\Delta \eta }\xspace and mass selections.\relax }}{126}{figure.caption.73}
+\contentsline {figure}{\numberline {5.31}{\ignorespaces Turn on region in the \ensuremath {\gamma +\mathrm {jet}}\xspace invariant mass plot for different selection criteria.\relax }}{127}{figure.caption.75}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{127}{subfigure.31.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{127}{subfigure.31.2}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces The expected and observed 95\% CL upper limits on $\sigma \times \mathcal {B}\times {A}\times \epsilon $ for $\ensuremath {\mathrm {q^\star }}\xspace \to \ensuremath {\gamma +\mathrm {jet}}\xspace $ with coupling parameter $f=1.0$. The upper limits are also compared with theoretical prediction for \ensuremath {\mathrm {q^\star }}\xspace production. The uncertainty at $1\sigma $ and $2\sigma $ levels are shown as green and yellow bands, around the expected limit.\relax }}{130}{figure.caption.76}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces The expected and observed 95\% CL upper limits on $\sigma \times \mathcal {B}\times {A}\times \epsilon $ for $\ensuremath {\mathrm {q^\star }}\xspace \to \ensuremath {\gamma +\mathrm {jet}}\xspace $ with coupling parameter $f=0.5$. The upper limits are also compared with theoretical prediction for \ensuremath {\mathrm {q^\star }}\xspace production. The uncertainty at $1\sigma $ and $2\sigma $ levels are shown as green and yellow bands, around the expected limit.\relax }}{130}{figure.caption.77}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces The expected and observed 95\% CL upper limits on $\sigma \times \mathcal {B}$ for $\ensuremath {\mathrm {q^\star }}\xspace \to \ensuremath {\gamma +\mathrm {jet}}\xspace $ with coupling parameter $f=1.0$. The upper limits are also compared with theoretical predictions for \ensuremath {\mathrm {q^\star }}\xspace production. The uncertainty at $1\sigma $ and $2\sigma $ levels are shown as green and yellow bands, around the expected limit.\relax }}{131}{figure.caption.78}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces The expected and observed 95\% CL upper limits on $\sigma \times \mathcal {B}$ for $\ensuremath {\mathrm {q^\star }}\xspace \to \ensuremath {\gamma +\mathrm {jet}}\xspace $ with coupling parameter $f=0.5$. The upper limits are also compared with theoretical predictions for \ensuremath {\mathrm {q^\star }}\xspace production. The uncertainty at $1\sigma $ and $2\sigma $ levels are shown as green and yellow bands, around the expected limit.\relax }}{131}{figure.caption.79}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Comparison of observed limits for excited quarks with $f=0.5$ and 1.0 respectively. \relax }}{132}{figure.caption.80}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces The expected and observed 95\% CL upper limits on $\sigma \times \mathcal {B}$ for $\ensuremath {\mathrm {q^\star }}\xspace \to \ensuremath {\gamma +\mathrm {jet}}\xspace $ production, and comparison with theoretical predictions for coupling parameters $f=0.5$ and $f=1.0$ respectively. The uncertainty at $1\sigma $ and $2\sigma $ levels are shown as green and yellow bands, around the expected limits. \relax }}{135}{figure.caption.83}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces The expected and observed 95\% CL upper limits on $\sigma \times \mathcal {B}$ of excited quarks for coupling parameter $f$, ranging from $f=0.004$ to $1.0$.\relax }}{135}{figure.caption.84}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces The expected (dashed) and observed (red filled) excluded regions at 95\% CL as a function of \ensuremath {\mathrm {q^\star }}\xspace mass and coupling strength for $\Lambda =\ensuremath {\mathrm {M_{q^\star }}}\xspace $ (left axis) or the $\ensuremath {\mathrm {M_{q^\star }}}\xspace /\Lambda $ for coupling strength $f=1$ (right axis).\relax }}{136}{figure.caption.85}
